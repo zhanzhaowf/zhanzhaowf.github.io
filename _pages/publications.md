@@ -33,9 +33,13 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 Conference Publications
 ======
-* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). Discovering latent activity patterns from human mobility. _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
-* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). Detecting changes in individual travel behavior patterns. _Transportation Research Board 97th Annual Meeting_, Washington, DC.
-* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2017). Mobility as a language: Predicting individual mobility in public transportation using n-gram models. _Transportation Research Board 96th Annual Meeting_, Washington, DC.
-* **Zhao, Z.**, Zhao, J., and Koutsopoulos, H. N. (2016). Individual-level trip detection using sparse call detail record data based on supervised statistical learning. _Transportation Research Board 95th Annual Meeting_, Washington, DC.
-* **Zhao, Z.**, and Zhao, J. (2015). Car pride: Psychological structure and behavioral implications. _Transportation Research Board 94th Annual Meeting_, Washington, DC.
-* **Zhao, Z.**, Chua G., and Zhao, J. (2012). Evolution of trip chaining patterns in London from 1991 to 2010. _Innovations in Travel Modelling Conference_, Tampa, FL.
+* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
+* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting changes in individual travel behavior patterns](https://trid.trb.org/view/1494577). _Transportation Research Board 97th Annual Meeting_, Washington, DC.
+* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2017). [Mobility as a language: Predicting individual mobility in public transportation using n-gram models](https://trid.trb.org/view/1438738). _Transportation Research Board 96th Annual Meeting_, Washington, DC.
+* **Zhao, Z.**, Zhao, J., and Koutsopoulos, H. N. (2016). [Individual-level trip detection using sparse call detail record data based on supervised statistical learning](https://trid.trb.org/view/1393647). _Transportation Research Board 95th Annual Meeting_, Washington, DC.
+* **Zhao, Z.**, and Zhao, J. (2015). [Car pride: Psychological structure and behavioral implications](https://trid.trb.org/view/1336944). _Transportation Research Board 94th Annual Meeting_, Washington, DC.
+* **Zhao, Z.**, Chua G., and Zhao, J. (2012). [Evolution of trip chaining patterns in London from 1991 to 2010](http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-R/0117-000122.pdf). _Innovations in Travel Modelling Conference_, Tampa, FL.
+
+Book Chapter
+=====
+* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2019). Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling. Book chapter for _Demand for Emerging Transportation Systems_ (in press).
