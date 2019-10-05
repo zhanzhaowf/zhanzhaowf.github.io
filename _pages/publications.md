@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
-Submitted
+Under Review
 =====
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2019). Discovering latent activity patterns using transit smart card data. 
 Submitted to _Transportation Research Part C: Emerging Technologies_.
@@ -40,6 +40,6 @@ Conference Publications
 * **Zhao, Z.**, and Zhao, J. (2015). [Car pride: Psychological structure and behavioral implications](https://trid.trb.org/view/1336944). _Transportation Research Board 94th Annual Meeting_, Washington, DC.
 * **Zhao, Z.**, Chua G., and Zhao, J. (2012). [Evolution of trip chaining patterns in London from 1991 to 2010](http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-R/0117-000122.pdf). _Innovations in Travel Modelling Conference_, Tampa, FL.
 
-Book Chapter
+Book Chapters
 =====
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2019). Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling. Book chapter for _Demand for Emerging Transportation Systems_ (in press).
