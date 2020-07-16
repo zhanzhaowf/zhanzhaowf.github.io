@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* 2018 - Present: Data Scientist, [Via Transportation, Inc](https://ridewithvia.com/), New York, NY, USA
+* Jul 2020 - Present: Assistant Professor, [University of Hong Kong](https://hku.hk/), Hong Kong SAR, China
+* Aug 2018 - Jun 2020: Senior Data Scientist, [Via Transportation, Inc](https://ridewithvia.com/), New York, NY, USA
 * May 2017 - Aug 2017: Visiting Researcher, [Singapore-MIT Alliance for Research and Technology](https://smart.mit.edu/), Singapore, Singapore
 * Jun 2016 - Sep 2016: Research Intern, [IBM Research](https://www.research.ibm.com/labs/ireland/), Dublin, Ireland
 * May 2015 - Aug 2015: Research Intern, [Transport for London](https://tfl.gov.uk//), London, UK
