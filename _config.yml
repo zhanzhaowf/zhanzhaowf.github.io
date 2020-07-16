@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhan Zhao - Homepage"
 title_separator          : "-"
 name                     : &name "Zhan Zhao"
-description              : &description "Data Scientist at Via Transportation"
+description              : &description "Assistant Professor at the University of Hong Kong"
 url                      : "https://zhanzhaowf.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhanzhaowf.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zhan Zhao"
   avatar           : "headshot.jpeg"
-  bio              : "Data Scientist @ Via
+  bio              : "Assistant Professor @ HKU
   Transportation PhD @ MIT"
-  location         : "New York, NY"
+  location         : "Hong Kong SAR"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=71vGYtcAAAAJ"
   email            : "zhanzhaosd[at]gmail[dot]com"
