@@ -15,6 +15,8 @@ Submitted to _Transportation Research Part C: Emerging Technologies_.
 
 Journal Publications
 ======
+* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2020). [Discovering latent activity patterns from transit smart card data: A spatiotemporal topic model](https://doi.org/10.1016/j.trc.2020.102627). 
+_Transportation Research Part C: Emerging Technologies_, 116, 102627.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting pattern changes in individual travel behavior: 
 A Bayesian approach](https://doi.org/10.1016/j.trb.2018.03.017). _Transportation Research Part B: Methodological_, 112, 73-88.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Individual mobility prediction using transit smart card data](http://dx.doi.org/10.1016/j.trc.2018.01.022).
