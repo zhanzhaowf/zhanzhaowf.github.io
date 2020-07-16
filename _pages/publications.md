@@ -7,11 +7,6 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
-Under Review
-=====
-* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2019). Discovering latent activity patterns using transit smart card data. 
-Submitted to _Transportation Research Part C: Emerging Technologies_.
-
 
 Journal Publications
 ======
