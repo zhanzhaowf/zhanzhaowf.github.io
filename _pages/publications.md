@@ -40,4 +40,4 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 * **Zhao, Z.**, Chua G., and Zhao, J. (2012). [Evolution of trip chaining patterns in London from 1991 to 2010](http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-R/0117-000122.pdf). _Innovations in Travel Modelling Conference_, Tampa, FL.
 
 ## Book Chapters
-* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2019). Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling. Book chapter for _Demand for Emerging Transportation Systems_ (in press).
+* **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2020). [Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling](https://doi.org/10.1016/B978-0-12-815018-4.00007-3). Chapter 7 for _Demand for Emerging Transportation Systems_.
