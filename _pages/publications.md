@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
 ## Preprints
-* Yuebing, Y., and **Zhao, Z.** (2021). [Vehicle Trajectory Prediction in City-scale Road Networks using a Direction-based Sequence-to-Sequence Model with Spatiotemporal Attention Mechanisms](https://arxiv.org/abs/2106.11175).
+* Liang, Y., and **Zhao, Z.** (2021). [Vehicle Trajectory Prediction in City-scale Road Networks using a Direction-based Sequence-to-Sequence Model with Spatiotemporal Attention Mechanisms](https://arxiv.org/abs/2106.11175).
 * Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction: An interpretable activity-based hidden Markov approach](https://arxiv.org/abs/2101.03996).
 
 
