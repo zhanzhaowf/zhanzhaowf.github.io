@@ -16,7 +16,7 @@ Dr. Zhan Zhao at the University of Hong Kong (HKU) is inviting prospective PhD/M
 *	experience with scientific research and writing (publication records are preferable)
 *	proven track record for academic excellence (highly-ranked universities with GPA > 3.6/4)
 
-Students who are interested in pursuing full-time PhD/MPhil studies at HKU are encouraged to apply for a variety of scholarships. HKU and HK government offer very generous scholarship packages (up to around HK$400,000 per year) to top candidates. The application deadline is December 1, 2020. Those who are interested can find more information [here](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees).
+Students who are interested in pursuing full-time PhD/MPhil studies at HKU are encouraged to apply for a variety of scholarships. HKU and HK government offer very generous scholarship packages (up to around HK$400,000 per year) to top candidates. The annual application deadline is typically around December 1, but the prestigious HKU Presidential Fellowship can be applied all year around. Those who are interested can find more information [here](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees).
 
 ## Research Assistant (RA)
 Part-time or full-time RA positions are available. The requirement for RA is similar to PhD/MPhil. Typically the contract is for 6 months to 1 year with potential for renewal. The position is well suited for students or junior scholars who are interested in accumulating research experience and pursuing a career in research.
