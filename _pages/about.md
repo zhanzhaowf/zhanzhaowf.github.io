@@ -16,3 +16,4 @@ Prior to joining HKU, Zhan was a senior data scientist at [Via](https://ridewith
 * Urban Computing and Spatiotemporal Data Mining
 * Human Mobility and Travel Behavior
 * Public Transit and Shared Mobility on Demand Systems
+* Network Science for Urban Planning and Design
