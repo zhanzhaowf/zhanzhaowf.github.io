@@ -18,6 +18,8 @@ Dr. Zhan Zhao at the University of Hong Kong (HKU) is inviting prospective PhD/M
 
 Students who are interested in pursuing full-time PhD/MPhil studies at HKU are encouraged to apply for a variety of scholarships. HKU and HK government offer very generous scholarship packages (up to around HK$400,000 per year) to top candidates. The annual application deadline is typically around December 1, but the prestigious HKU Presidential Fellowship can be applied all year around. Those who are interested can find more information about [scholarship and funding opportunities](https://www.gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees).
 
+Note that, for applicants to Department of Urban Planning and Design (under Faculty of Architecture), a [research proposal](https://gradsch.hku.hk/gradsch/downloadable-forms/prospective-students) will be needed. So please prepare accordingly. If the topic is relevant, Dr. Zhao is happy to provide comments.
+
 ## Research Assistant (RA)
 Part-time or full-time RA positions are available. The requirement for RA is similar to PhD/MPhil. Typically the contract is for 6 months to 1 year with potential for renewal. The position is well suited for students or junior scholars who are interested in accumulating research experience and pursuing a career in research.
 
