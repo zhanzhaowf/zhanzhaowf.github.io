@@ -1,4 +1,11 @@
-# Team
+---
+layout: archive
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+
+{% include base_path %}
 
 We are looking for more young talents to join our team! Please reach out: zhanzhao@hku.hk
 
