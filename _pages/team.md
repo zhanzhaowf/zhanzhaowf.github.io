@@ -32,3 +32,9 @@ Email: yijiahu@connect.hku.hk
 BS (Tsinghua); MS (MIT)
 
 Email: jintaili@hku.hk
+
+
+## Collaborators
+* Professor Jinhua Zhao, MIT ([link](https://dusp.mit.edu/faculty/jinhua-zhao))
+* Professor Haris N. Koutsopoulos, Northeastern University ([link](https://coe.northeastern.edu/people/koutsopoulos-haris/))
+* Professor Nigel H.M. Wilson, MIT ([link](https://cee.mit.edu/people_individual/nigel-wilson/))
