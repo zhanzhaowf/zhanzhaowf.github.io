@@ -7,31 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-We are looking for more young talents to join our team! Please see our openings and reach out!
+Our team is composed of bright young scholars from various background, all interested in using data science and AI to solve urban mobility issues. Of course, we are alwasy looking for more young talents to join our team! Please see our openings and reach out!
 
 ### Dr Jiali Zhou, Postdoctoral Fellow (09/2021 - Present)
-
-BS (SCUT); MS (CMU); PhD (Northeastern U)
-
-Email: jlzhou@hku.hk
+* BS (SCUT); MS (CMU); PhD (Northeastern U)
+* Email: jlzhou@hku.hk
 
 ### Ms Yuebing Liang, PhD Student (10/2020 - Present)
-
-BS (Tsinghua); MS (Tsinghua)
-
-Email: yuebingliang@connect.hku.hk
+* BS (Tsinghua); MS (Tsinghua)
+* Email: yuebingliang@connect.hku.hk
 
 ### Ms Yijia Hu, PhD Student (09/2021 - Present)
-
-BS (Zhejiang); MS (HK City U)
-
-Email: yijiahu@connect.hku.hk
+* BS (Zhejiang); MS (HK City U)
+* Email: yijiahu@connect.hku.hk
 
 ### Mr Jintai Li, Research Assistant (06/2021 - Present)
-
-BS (Tsinghua); MS (MIT)
-
-Email: jintaili@hku.hk
+* BS (Tsinghua); MS (MIT)
+* Email: jintaili@hku.hk
 
 
 ## Collaborators
