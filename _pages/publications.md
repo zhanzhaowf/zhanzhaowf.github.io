@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ## Journal Publications
-* * Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction: An interpretable activity-based hidden Markov approach](https://arxiv.org/abs/2101.03996). Accepted in August, 2021.
+* Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in Mass Transit Systems using Smart Card Data: An interpretable activity-based hidden Markov approach](https://arxiv.org/abs/2101.03996). Accepted in August, 2021.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2020). [Discovering latent activity patterns from transit smart card data: A spatiotemporal topic model](https://doi.org/10.1016/j.trc.2020.102627). 
 _Transportation Research Part C: Emerging Technologies_, 116, 102627.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting pattern changes in individual travel behavior: 
