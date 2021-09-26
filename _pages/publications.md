@@ -8,12 +8,13 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
 ## Preprints
-* Liang, Y., and **Zhao, Z.** (2021). [Vehicle Trajectory Prediction in City-scale Road Networks using a Direction-based Sequence-to-Sequence Model with Spatiotemporal Attention Mechanisms](https://arxiv.org/abs/2106.11175).
+* Liang, Y., **Zhao, Z.**, and Sun, L. (2021). [Dynamic Spatiotemporal Graph Convolutional Neural Networks for Traffic Data Imputation with Complex Missing Patterns](https://arxiv.org/abs/2109.08357).
+* Liang, Y., and **Zhao, Z.** (2021). [NetTraj: A Network-based Vehicle Trajectory Prediction Model with Directional Representation and Spatiotemporal Attention Mechanisms](https://arxiv.org/abs/2106.11175).
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
 
 
 ## Journal Publications
-* Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in mass transit systems using smart card data: An interpretable activity-based hidden Markov approach](https://arxiv.org/abs/2101.03996).  _IEEE Transactions on Intelligent Transportation Systems_, forthcoming (accepted in August, 2021).
+* Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in mass transit systems using smart card data: An interpretable activity-based hidden Markov approach](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/document/9537634).  _IEEE Transactions on Intelligent Transportation Systems_, accepted in August, 2021.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2020). [Discovering latent activity patterns from transit smart card data: A spatiotemporal topic model](https://doi.org/10.1016/j.trc.2020.102627). 
 _Transportation Research Part C: Emerging Technologies_, 116, 102627.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting pattern changes in individual travel behavior: 
