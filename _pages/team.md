@@ -15,6 +15,7 @@ Our team is composed of bright young scholars from various background, all inter
 
 ### Ms Yuebing Liang, PhD Student (10/2020 - Present)
 * BS (Tsinghua); MS (Tsinghua)
+* Recipient of HKU Presidential Fellowship
 * Email: yuebingliang@connect.hku.hk
 
 ### Ms Yijia Hu, PhD Student (09/2021 - Present)
