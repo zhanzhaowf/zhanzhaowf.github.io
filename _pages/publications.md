@@ -17,14 +17,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in mass transit systems using smart card data: An interpretable activity-based hidden Markov approach](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/document/9537634).  _IEEE Transactions on Intelligent Transportation Systems_, accepted in August, 2021.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2020). [Discovering latent activity patterns from transit smart card data: A spatiotemporal topic model](https://doi.org/10.1016/j.trc.2020.102627). 
 _Transportation Research Part C: Emerging Technologies_, 116, 102627.
+* **Zhao, Z.**, and Zhao, J. (2020). [Car pride and its behavioral implication: An exploration in Shanghai](https://dx.doi.org/10.1007/s11116-018-9917-0). _Transportation_, 47(2), 793-810.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting pattern changes in individual travel behavior: 
 A Bayesian approach](https://doi.org/10.1016/j.trb.2018.03.017). _Transportation Research Part B: Methodological_, 112, 73-88.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Individual mobility prediction using transit smart card data](http://dx.doi.org/10.1016/j.trc.2018.01.022).
  _Transportation Research Part C: Emerging Technologies_, 89, 19-34.
 * Goulet-Langlois, G., Koutsopoulos, H. N., **Zhao, Z.**, and Zhao, J. (2018). [Measuring regularity of individual travel patterns](https://doi.org/10.1109/TITS.2017.2728704).
  _IEEE Transactions on Intelligent Transportation Systems_, 19(5), 1583-1592.
-* **Zhao, Z.**, and Zhao, J. (2018). [Car pride and its behavioral implication: An exploration in Shanghai](https://dx.doi.org/10.1007/s11116-018-9917-0). _Transportation_, 
-1-10.
 * Zhao, J., Frumin, M., Wilson, N. H., and **Zhao, Z.** (2013). [Unified estimator for excess journey time under 
 heterogeneous passenger incidence behavior using smartcard data](https://doi.org/10.1016/j.trc.2013.05.009). _Transportation Research Part C: Emerging Technologies_, 34, 70-88.
 * Frumin, M., Zhao, J., Wilson, N. H., and **Zhao, Z.** (2013). [Automatic data for applied railway management: 
