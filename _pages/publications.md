@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ## Journal Publications
-* * Liang, Y., and **Zhao, Z.** (2021). [NetTraj: A Network-based Vehicle Trajectory Prediction Model with Directional Representation and Spatiotemporal Attention Mechanisms](https://doi.org/10.1109/tits.2021.3129588). _IEEE Transactions on Intelligent Transportation Systems_, accepted in November, 2021.
+* Liang, Y., and **Zhao, Z.** (2021). [NetTraj: A Network-based Vehicle Trajectory Prediction Model with Directional Representation and Spatiotemporal Attention Mechanisms](https://doi.org/10.1109/tits.2021.3129588). _IEEE Transactions on Intelligent Transportation Systems_, accepted in November, 2021.
 * Bi, W., Lu, W., **Zhao, Z.**, and Webster, C.J. (2021). [Combinatorial optimization of construction waste collection and 
 transportation: A case study of Hong Kong](https://doi.org/10.1016/j.resconrec.2021.106043). _Resources, Conservation & Recycling_, accepted in November, 2021.
 * Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in mass transit systems using smart card data: An interpretable activity-based hidden Markov approach](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/document/9537634). _IEEE Transactions on Intelligent Transportation Systems_, accepted in August, 2021.
