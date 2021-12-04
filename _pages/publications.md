@@ -34,7 +34,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Publications
-* Liang, Y., and **Zhao, Z.** (2021). Unraveling spatial, temporal and behavioral factors affecting trip-level taxi cruising time using large-scale GPS trajectories. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
+* Liang, Y., and **Zhao, Z.** (2022). Unraveling spatial, temporal and behavioral factors affecting trip-level taxi cruising time using large-scale GPS trajectories. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
 * Li, J., and **Zhao, Z.** (2022). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting changes in individual travel behavior patterns](https://trid.trb.org/view/1494577). _Transportation Research Board 97th Annual Meeting_, Washington, DC.
