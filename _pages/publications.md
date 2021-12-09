@@ -7,9 +7,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
-## Preprints
+## Working Papers
 * Liang, Y., **Zhao, Z.**, and Sun, L. (2021). [Dynamic Spatiotemporal Graph Convolutional Neural Networks for Traffic Data Imputation with Complex Missing Patterns](https://arxiv.org/abs/2109.08357).
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
+* Li, J., and **Zhao, Z.** (2022). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City.
+* Liang, Y., Huang, G., and **Zhao, Z.** (2021). Joint Demand Prediction for Multimodal Systems: A Multi-task Multi-relational Spatiotemporal Graph Neural Network Approach.
 
 
 ## Journal Publications
@@ -33,7 +35,7 @@ Case study on the London Overground](https://doi.org/10.3141/2353-05). _Transpor
 growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journal of the Transportation Research Board_, 2394, 85-92.
 
 
-## Conference Publications
+## Conference Papers
 * Liang, Y., and **Zhao, Z.** (2022). Unraveling spatial, temporal and behavioral factors affecting trip-level taxi cruising time using large-scale GPS trajectories. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
 * Li, J., and **Zhao, Z.** (2022). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
