@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## Working Papers
 * Liang, Y., **Zhao, Z.**, and Sun, L. (2021). [Dynamic Spatiotemporal Graph Convolutional Neural Networks for Traffic Data Imputation with Complex Missing Patterns](https://arxiv.org/abs/2109.08357).
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
-* Li, J., and **Zhao, Z.** (2022). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City.
+* Li, J., and **Zhao, Z.** (2021). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City.
 * Liang, Y., Huang, G., and **Zhao, Z.** (2021). Joint Demand Prediction for Multimodal Systems: A Multi-task Multi-relational Spatiotemporal Graph Neural Network Approach.
 
 
