@@ -9,22 +9,27 @@ author_profile: true
 
 Our team is composed of bright young scholars from various background, all interested in using data science and AI to solve urban mobility issues. Of course, we are alwasy looking for more young talents to join our team! Please see our openings and reach out!
 
+## Current Team
+
+### Dr Zhan Zhao, Assistant Professor (07/2020 - Present)
+* BS (Tongji); MS (UBC); PhD (MIT)
+* Email: zhanzhao@hku.hk
+
 ### Dr Jiali Zhou, Postdoctoral Fellow (09/2021 - Present)
 * BS (SCUT); MS (CMU); PhD (Northeastern U)
 * Email: jlzhou@hku.hk
 
 ### Ms Yuebing Liang, PhD Student (10/2020 - Present)
 * BS (Tsinghua); MS (Tsinghua)
-* Recipient of HKU Presidential Fellowship
 * Email: yuebingliang@connect.hku.hk
 
 ### Ms Yijia Hu, PhD Student (09/2021 - Present)
 * BS (Zhejiang); MS (HK City U)
 * Email: yijiahu@connect.hku.hk
 
-### Mr Jintai Li, Research Assistant (06/2021 - Present)
-* BS (Tsinghua); MS (MIT)
-* Email: jintaili@hku.hk
+
+## Alumni
+* Mr Jintai Li, Research Assistant (06/2021 - 01/2022)
 
 
 ## Collaborators
