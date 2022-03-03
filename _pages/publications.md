@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## Preprints and Working Papers
 * Zhou, J., **Zhao, Z**, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
 * Hu, Y., and **Zhao, Z.** (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A multi-city studies.
-* Liang, Y., Huang, G., and **Zhao, Z.** (2022). Bike Sharing Demand Prediction based on Knowledge Sharing across Modes: A Graph-based Deep Learning Approach.
+* Liang, Y., Huang, G., and **Zhao, Z.** (2022). Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach.
 * Liang, Y., Huang, G., and **Zhao, Z.** (2021). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078).
 * Liang, Y., **Zhao, Z.**, and Sun, L. (2021). [Dynamic spatiotemporal graph convolutional neural networks for traffic data imputation with complex missing patterns](https://arxiv.org/abs/2109.08357).
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
