@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## Preprints and Working Papers
 * Zhou, J., **Zhao, Z**, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
 * Hu, Y., and **Zhao, Z.** (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A multi-city studies.
-* Liang, Y., Huang, G., and **Zhao, Z.** (2022). Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach.
+* Liang, Y., Huang, G., and **Zhao, Z.** (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961).
 * Liang, Y., Huang, G., and **Zhao, Z.** (2021). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078).
 * Liang, Y., **Zhao, Z.**, and Sun, L. (2021). [Dynamic spatiotemporal graph convolutional neural networks for traffic data imputation with complex missing patterns](https://arxiv.org/abs/2109.08357).
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
@@ -22,7 +22,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * Liang, Y., and **Zhao, Z.** (2021). [NetTraj: A network-based vehicle trajectory prediction model with directional representation and spatiotemporal attention mechanisms](https://doi.org/10.1109/tits.2021.3129588). _IEEE Transactions on Intelligent Transportation Systems_, accepted in November, 2021.
 * Bi, W., Lu, W., **Zhao, Z.**, and Webster, C.J. (2021). [Combinatorial optimization of construction waste collection and 
 transportation: A case study of Hong Kong](https://doi.org/10.1016/j.resconrec.2021.106043). _Resources, Conservation & Recycling_, accepted in November, 2021.
-* Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in mass transit systems using smart card data: An interpretable activity-based hidden Markov approach](https://ieeexplore-ieee-org.eproxy.lib.hku.hk/document/9537634). _IEEE Transactions on Intelligent Transportation Systems_, accepted in August, 2021.
+* Mo, B., **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2021). [Individual mobility prediction in mass transit systems using smart card data: An interpretable activity-based hidden Markov approach](https://doi.org/10.1109/TITS.2021.3109428). _IEEE Transactions on Intelligent Transportation Systems_, accepted in August, 2021.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2020). [Discovering latent activity patterns from transit smart card data: A spatiotemporal topic model](https://doi.org/10.1016/j.trc.2020.102627). _Transportation Research Part C: Emerging Technologies_, 116, 102627.
 * **Zhao, Z.**, and Zhao, J. (2020). [Car pride and its behavioral implication: An exploration in Shanghai](https://dx.doi.org/10.1007/s11116-018-9917-0). _Transportation_, 47(2), 793-810.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting pattern changes in individual travel behavior: 
