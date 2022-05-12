@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
 ## Preprints and Working Papers
+* **Zhao, Z.**, and Liang, Y. (2022). Deep inverse reinforcement learning for route choice modeling.
 * Zhou, J., **Zhao, Z**, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
 * Hu, Y., and **Zhao, Z.** (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A multi-city studies.
 * Liang, Y., Huang, G., and **Zhao, Z.** (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961).
