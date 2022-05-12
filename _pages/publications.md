@@ -18,7 +18,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 ## Journal Publications
-* * Liang, Y., Huang, G., and **Zhao, Z.** (2021). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078). _Transportation Research Part C: Emerging Technologies_, accepted in May, 2022.
+* Liang, Y., Huang, G., and **Zhao, Z.** (2021). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078). _Transportation Research Part C: Emerging Technologies_, accepted in May, 2022.
 * Li, J., and **Zhao, Z.** (2022). [Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City](https://doi.org/10.1016/j.aap.2022.106586). _Accident Analysis & Prevention_, accepted in January, 2022.
 * Liang, Y., and **Zhao, Z.** (2021). [NetTraj: A network-based vehicle trajectory prediction model with directional representation and spatiotemporal attention mechanisms](https://doi.org/10.1109/tits.2021.3129588). _IEEE Transactions on Intelligent Transportation Systems_, accepted in November, 2021.
 * Bi, W., Lu, W., **Zhao, Z.**, and Webster, C.J. (2021). [Combinatorial optimization of construction waste collection and 
