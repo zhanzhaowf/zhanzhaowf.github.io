@@ -14,7 +14,7 @@ Note: "\*" indicates corresponding authorship.
 * Zhou, J., Zhou, M., Zhou, J., and **Zhao, Z.**\* (2022). Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks.
 * Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
 * Zhou, J., **Zhao, Z**\*, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
-* Hu, Y., and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A multi-city studies.
+* Hu, Y., and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A network-based multi-city study.
 * Liang, Y., Huang, G., and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961).
 * Liang, Y., **Zhao, Z.**\*, and Sun, L. (2021). [Dynamic spatiotemporal graph convolutional neural networks for traffic data imputation with complex missing patterns](https://arxiv.org/abs/2109.08357).
 * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
