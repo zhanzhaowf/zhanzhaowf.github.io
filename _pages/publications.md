@@ -7,8 +7,10 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
+Note: "\*" indicates corresponding authorship.
+
 ## Preprints and Working Papers
-* **Zhao, Z.**, and Liang, Y. (2022). Deep inverse reinforcement learning for route choice modeling.
+* **Zhao, Z.**<sup>\*<\sup>, and Liang, Y. (2022). Deep inverse reinforcement learning for route choice modeling.
 * Zhou, J., Zhou, M., Zhou, J., and **Zhao, Z.** (2022). Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks.
 * Lin, Y., Xu, Y., **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
 * Zhou, J., **Zhao, Z**, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
