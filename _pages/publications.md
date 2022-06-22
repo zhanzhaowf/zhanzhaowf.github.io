@@ -15,14 +15,14 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
 * Zhou, J.&dagger;, **Zhao, Z**\*, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A network-based multi-city study.
-* Liang, Y.&dagger;, Huang, G., and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961).
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961).
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2021). [Dynamic spatiotemporal graph convolutional neural networks for traffic data imputation with complex missing patterns](https://arxiv.org/abs/2109.08357).
 * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2021). Modeling taxi cruising time based on multi-source data: A case study in Shanghai.
 
 
 ## Journal Publications
-* Liang, Y.&dagger;, Huang, G., and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078). _Transportation Research Part C: Emerging Technologies_, accepted in May, 2022.
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078). _Transportation Research Part C: Emerging Technologies_, accepted in May, 2022.
 * Li, J.&dagger;, and **Zhao, Z.**\* (2022). [Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City](https://doi.org/10.1016/j.aap.2022.106586). _Accident Analysis & Prevention_, accepted in January, 2022.
 * Bi, W., Lu, W.\*, **Zhao, Z.**, and Webster, C.J. (2022). [Combinatorial optimization of construction waste collection and 
 transportation: A case study of Hong Kong](https://doi.org/10.1016/j.resconrec.2021.106043). _Resources, Conservation & Recycling_, accepted in November, 2021.
