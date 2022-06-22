@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=71vGYtcAAAAJ).
 
-Note: "\*" indicates corresponding authorship, and "\dagger" indicates students/RAs/Postdocs who work under my supervision.
+Note: "\*" indicates corresponding authorship, and "&dagger" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
 * **Zhao, Z.**\*, and Liang, Y. (2022). Deep inverse reinforcement learning for route choice modeling.
