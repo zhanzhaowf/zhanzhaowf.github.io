@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
-* Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and Diseconomies of Scale in Segmented Mobility Sharing Markets.
+* Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
 * **Zhao, Z.**\*, and Liang, Y.&dagger; (2022). [Deep inverse reinforcement learning for route choice modeling](https://arxiv.org/abs/2206.10598).
 * Zhou, J.&dagger;, Zhou, M., Zhou, J., and **Zhao, Z.**\* (2022). Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks.
 * Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
