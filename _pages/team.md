@@ -27,6 +27,14 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Zhejiang); MS (HK City U)
 * Email: yijiahu@connect.hku.hk
 
+### Ms Zhengyi Ge, Research Assistant (07/2022 - Present)
+* BS (Southeast); MS (NUS)
+* Email: gzyjenny@hku.hk
+
+### Ms Xiaohan Wang, Research Assistant (08/2022 - Present)
+* BS (Chongqing); MS (HKU)
+* Email: xiaohan.wang.527@gmail.com
+
 
 ## Alumni
 * Mr Jintai Li, Research Assistant (06/2021 - 01/2022)
