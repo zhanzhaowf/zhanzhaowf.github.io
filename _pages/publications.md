@@ -16,7 +16,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
 * Zhou, J.&dagger;, **Zhao, Z**\*, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A network-based multi-city study.
-* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961).
 * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2021). Modeling taxi cruising time based on multi-source data: A case study in Shanghai.
 
@@ -46,6 +45,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Papers
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
 * Liang, Y.&dagger;, and **Zhao, Z.** (2022). Unraveling spatial, temporal and behavioral factors affecting trip-level taxi cruising time using large-scale GPS trajectories. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
 * Li, J.&dagger;, and **Zhao, Z.** (2022). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
