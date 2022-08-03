@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* Tang, Y.<sup>&dagger</sup>, and **Zhao, Z.**\* (2022). Hierarchical graph attention recurrent network for human mobility modeling.
 * Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). Understanding spatiotemporal dynamics of market competition among transportation network companies.
 * Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
 * **Zhao, Z.**\*, and Liang, Y.&dagger; (2022). [Deep inverse reinforcement learning for route choice modeling](https://arxiv.org/abs/2206.10598).
