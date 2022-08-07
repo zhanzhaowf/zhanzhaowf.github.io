@@ -24,7 +24,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 ## Journal Publications
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2022). [Memory-augmented dynamic graph convolutional networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). _Transportation Research Part C: Emerging Technologies_, accepted in July, 2022.
-* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://arxiv.org/abs/2112.08078). _Transportation Research Part C: Emerging Technologies_, accepted in May, 2022.
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://doi.org/10.1016/j.trc.2022.103731). _Transportation Research Part C: Emerging Technologies_, accepted in May, 2022.
 * Li, J.&dagger;, and **Zhao, Z.**\* (2022). [Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City](https://doi.org/10.1016/j.aap.2022.106586). _Accident Analysis & Prevention_, accepted in January, 2022.
 * Bi, W., Lu, W.\*, **Zhao, Z.**, and Webster, C.J. (2022). [Combinatorial optimization of construction waste collection and 
 transportation: A case study of Hong Kong](https://doi.org/10.1016/j.resconrec.2021.106043). _Resources, Conservation & Recycling_, accepted in November, 2021.
