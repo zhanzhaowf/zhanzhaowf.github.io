@@ -24,8 +24,16 @@ Our team is composed of bright young scholars from various background, all inter
 * Email: yuebingliang@connect.hku.hk
 
 ### Ms Yijia Hu, PhD Student (09/2021 - Present)
-* BS (Zhejiang); MS (HK City U)
+* BS (Zhejiang); MS (CityU)
 * Email: yijiahu@connect.hku.hk
+
+### Ms Fangyi Ding, PhD Student (09/2022 - Present)
+* BS (HIT); MS (Tongji)
+* Email: 1933369@tongji.edu.cn
+
+### Mr Yihong Tang, MPhil Student (09/2022 - Present)
+* BS (BUPT)
+* Email: yihongt@connect.hku.hk
 
 ### Ms Zhengyi Ge, Research Assistant (07/2022 - Present)
 * BS (Southeast); MS (NUS)
