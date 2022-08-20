@@ -53,3 +53,4 @@ Our team is composed of bright young scholars from various background, all inter
 * Professor Haris N. Koutsopoulos, Northeastern University ([link](https://coe.northeastern.edu/people/koutsopoulos-haris/))
 * Professor Nigel H.M. Wilson, MIT ([link](https://cee.mit.edu/people_individual/nigel-wilson/))
 * Dr Hongmou Zhang, Peking University ([link](https://www.sg.pku.edu.cn/szdw/zzjs/csyqyglx1/1339592.htm))
+* Dr Yang Xu, Hong Kong Polytechnic University ([link](https://yangxu-git.github.io/))
