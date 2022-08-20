@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks.
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). Hierarchical graph attention recurrent network for human mobility prediction under data sparsity.
 * Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). Understanding spatiotemporal dynamics of market competition among transportation network companies.
 * Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
@@ -18,11 +19,11 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
 * Zhou, J.&dagger;, **Zhao, Z**\*, and Zhou, J. (2022). Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing.
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A network-based multi-city study.
-* **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2021). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885).
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2021). Modeling taxi cruising time based on multi-source data: A case study in Shanghai.
 
 
 ## Journal Publications
+* * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2022). [Identifying hidden visits from sparse call detail record data](https://arxiv.org/abs/2106.12885). _Transactions in Urban Data, Science, and Technology, accepted in August 2022.
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2022). [Memory-augmented dynamic graph convolutional networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). _Transportation Research Part C: Emerging Technologies_, accepted in July, 2022.
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://doi.org/10.1016/j.trc.2022.103731). _Transportation Research Part C: Emerging Technologies_, 140, 103731.
 * Li, J.&dagger;, and **Zhao, Z.**\* (2022). [Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City](https://doi.org/10.1016/j.aap.2022.106586). _Accident Analysis & Prevention_, 167, 106586.
