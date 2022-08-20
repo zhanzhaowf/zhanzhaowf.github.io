@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
-* * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks.
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks.
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). Hierarchical graph attention recurrent network for human mobility prediction under data sparsity.
 * Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). Understanding spatiotemporal dynamics of market competition among transportation network companies.
 * Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
