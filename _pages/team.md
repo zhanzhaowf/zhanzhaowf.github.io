@@ -29,7 +29,7 @@ Our team is composed of bright young scholars from various background, all inter
 
 ### Ms Fangyi Ding, PhD Student (09/2022 - Present)
 * BS (HIT); MS (Tongji)
-* Email: 1933369@tongji.edu.cn
+* Email: fyding@connect.hku.hk
 
 ### Mr Yihong Tang, MPhil Student (09/2022 - Present)
 * BS (BUPT)
