@@ -12,7 +12,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 ## Preprints and Working Papers
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks.
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). Hierarchical graph attention recurrent network for human mobility prediction under data sparsity.
-* Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). Understanding spatiotemporal dynamics of market competition among transportation network companies.
+* Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). [Understanding spatiotemporal dynamics of market competition among transportation network companies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203695).
 * Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
 * **Zhao, Z.**\*, and Liang, Y.&dagger; (2022). [Deep inverse reinforcement learning for route choice modeling](https://arxiv.org/abs/2206.10598).
 * Zhou, J.&dagger;, Zhou, M., Zhou, J., and **Zhao, Z.**\* (2022). Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks.
