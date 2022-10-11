@@ -23,7 +23,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-* * Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2022). Modeling taxi cruising time based on multi-source data: A case study in Shanghai. _Transportation_, accepted in October 2022.
+* Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2022). Modeling taxi cruising time based on multi-source data: A case study in Shanghai. _Transportation_, accepted in October 2022.
 * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2022). [Identifying hidden visits from sparse call detail record data](https://doi.org/10.1177/27541231221124164). _Transactions in Urban Data, Science, and Technology_, accepted in August 2022.
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2022). [Memory-augmented dynamic graph convolutional networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). _Transportation Research Part C: Emerging Technologies_, 143, 103826.
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://doi.org/10.1016/j.trc.2022.103731). _Transportation Research Part C: Emerging Technologies_, 140, 103731.
