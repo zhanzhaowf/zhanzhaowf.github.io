@@ -23,7 +23,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-* Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2022). Modeling taxi cruising time based on multi-source data: A case study in Shanghai. _Transportation_, accepted in October 2022.
+* Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2022). [Modeling taxi cruising time based on multi-source data: A case study in Shanghai](https://doi.org/10.1007/s11116-022-10348-y). _Transportation_, accepted in October 2022.
 * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2022). [Identifying hidden visits from sparse call detail record data](https://doi.org/10.1177/27541231221124164). _Transactions in Urban Data, Science, and Technology_, accepted in August 2022.
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2022). [Memory-augmented dynamic graph convolutional networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). _Transportation Research Part C: Emerging Technologies_, 143, 103826.
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Joint demand prediction for multimodal systems: A multi-task multi-relational spatiotemporal graph neural network approach](https://doi.org/10.1016/j.trc.2022.103731). _Transportation Research Part C: Emerging Technologies_, 140, 103731.
@@ -49,9 +49,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Papers
-* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://arxiv.org/abs/2203.10961). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
-* Liang, Y.&dagger;, and **Zhao, Z.** (2022). Unraveling spatial, temporal and behavioral factors affecting trip-level taxi cruising time using large-scale GPS trajectories. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
-* Li, J.&dagger;, and **Zhao, Z.** (2022). Impact of COVID-19 travel-restriction policies on road traffic accident patterns with emphasis on cyclists: A case study of New York City. _Transportation Research Board 101st Annual Meeting_, Washington, DC.
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://doi.org/10.1109/ITSC55140.2022.9922276). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2018). [Detecting changes in individual travel behavior patterns](https://trid.trb.org/view/1494577). _Transportation Research Board 97th Annual Meeting_, Washington, DC.
 * **Zhao, Z.**, Koutsopoulos, H. N., and Zhao, J. (2017). [Mobility as a language: Predicting individual mobility in public transportation using n-gram models](https://trid.trb.org/view/1438738). _Transportation Research Board 96th Annual Meeting_, Washington, DC.
