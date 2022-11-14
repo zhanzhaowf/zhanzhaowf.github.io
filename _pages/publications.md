@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* Wang, X.&dagger;, **Zhao, Z.** (2022) Efficiency gains from market integration of ridesharing services and its variation across transportation network companies.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J., **Zhao, Z.**, and Lei, S. (2022). Introducing social contacts into the node-place model: A case study of Hong Kong.
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks.
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
