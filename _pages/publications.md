@@ -12,7 +12,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 ## Preprints and Working Papers
 * Wang, X.&dagger;, **Zhao, Z.** (2022) Efficiency gains from market integration of ridesharing services and its variation across transportation network companies.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J., **Zhao, Z.**, and Lei, S. (2022). Introducing social contacts into the node-place model: A case study of Hong Kong.
-* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks.
+* Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
 * Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). [Understanding spatiotemporal dynamics of market competition among transportation network companies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203695).
 * Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
