@@ -10,10 +10,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
-* Huang, G.&dagger;, Lian, T., Yeh, A.G.O, and **Zhao, Z.**\* (2022) To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
-* Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022) Predicting potential demand for bike sharing system expansion using a multi-graph attention network.
-* Hu, Y.&dagger;, and **Zhao, Z.**\* (2022) Modeling cycling flows on street networks using a graph convolutional network-based spatial regression approach.
-* Wang, X.&dagger;, and **Zhao, Z.**\* (2022) Efficiency gains from market integration of ridesharing services and its variation across transportation network companies.
+* Huang, G.&dagger;, Lian, T., Yeh, A.G.O, and **Zhao, Z.**\* (2022). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
+* Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Predicting potential demand for bike sharing system expansion using a multi-graph attention network.
+* Hu, Y.&dagger;, and **Zhao, Z.**\* (2022). Modeling cycling flows on street networks using a graph convolutional network-based spatial regression approach.
+* Wang, X.&dagger;, and **Zhao, Z.**\* (2022). Efficiency gains from market integration of ridesharing services and its variation across transportation network companies.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S., and **Zhao, Z.**  (2022). Introducing social contacts into the node-place model: A case study of Hong Kong.
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
