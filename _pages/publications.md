@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
-* Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X., and Zhao, J. (2022). Quantifying efficiency gain from market integration of ridesharing services and its variation across transportation network companies.
+* Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X., and Zhao, J. (2023). Quantifying efficiency gain from market integration of ridesharing services and its variation across transportation network companies.
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
 * Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). Deep trip generation with graph neural networks for bike sharing system expansion.
 * Huang, G.&dagger;, Lian, T., Yeh, A.G.O, and **Zhao, Z.**\* (2023). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
