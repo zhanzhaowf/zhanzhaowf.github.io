@@ -10,11 +10,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
-* Huang, G.&dagger;, Lian, T., Yeh, A.G.O, and **Zhao, Z.**\* (2022). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
-* Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). Predicting potential demand for bike sharing system expansion using a multi-graph attention network.
-* Hu, Y.&dagger;, and **Zhao, Z.**\* (2022). Modeling cycling flows on street networks using a graph convolutional network-based spatial regression approach.
-* Wang, X.&dagger;, and **Zhao, Z.**\* (2022). Efficiency gains from market integration of ridesharing services and its variation across transportation network companies.
-* Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S., and **Zhao, Z.**  (2022). Introducing social contacts into the node-place model: A case study of Hong Kong.
+* Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X., and Zhao, J. (2022). Quantifying efficiency gain from market integration of ridesharing services and its variation across transportation network companies.
+* Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
+* Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). Deep trip generation with graph neural networks for bike sharing system expansion.
+* Huang, G.&dagger;, Lian, T., Yeh, A.G.O, and **Zhao, Z.**\* (2023). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
 * Liang, Y.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2022). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
 * Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). [Understanding spatiotemporal dynamics of market competition among transportation network companies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203695).
@@ -27,6 +26,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
+* Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S., and **Zhao, Z.**  (2023). Introducing social contacts into the node-place model: A case study of Hong Kong. _Journal of Transport Geography_, accepted in January 2023.
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2022). [Modeling taxi cruising time based on multi-source data: A case study in Shanghai](https://doi.org/10.1007/s11116-022-10348-y). _Transportation_, accepted in October 2022.
 * **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2022). [Identifying hidden visits from sparse call detail record data](https://doi.org/10.1177/27541231221124164). _Transactions in Urban Data, Science, and Technology_, 1(3–4), 121–141.
 * Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2022). [Memory-augmented dynamic graph convolutional networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). _Transportation Research Part C: Emerging Technologies_, 143, 103826.
