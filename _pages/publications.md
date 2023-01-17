@@ -19,7 +19,8 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Huang, G.&dagger;, Liang, Y.&dagger;, and **Zhao, Z.**\* (2022). [Understanding spatiotemporal dynamics of market competition among transportation network companies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203695).
 * Zhang, H., Guo, X.\*, Wang, X.&dagger;, **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
 * **Zhao, Z.**\*, and Liang, Y.&dagger; (2022). [Deep inverse reinforcement learning for route choice modeling](https://arxiv.org/abs/2206.10598).
-* Zhou, J.&dagger;, Zhou, M., Zhou, J., and **Zhao, Z.**\* (2022). Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks.
+* Zhou, J.&dagger;, Zhou, M., Zhou, J., and **Zhao, Z.**\* (2022). [Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks](
+https://doi.org/10.48550/arXiv.2301.00117).
 * Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., and Su, S. (2022) Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study.
 * Zhou, J.&dagger;, **Zhao, Z**\*, and Zhou, J. (2022). [Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing](https://doi.org/10.48550/arXiv.2210.01005).
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A network-based multi-city study.
