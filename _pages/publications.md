@@ -26,7 +26,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-1. Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S., and **Zhao, Z.**  (2023). Introducing social contacts into the node-place model: A case study of Hong Kong. _Journal of Transport Geography_, accepted in January 2023.
+1. Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S., and **Zhao, Z.**  (2023). [Introducing social contacts into the node-place model: A case study of Hong Kong](https://doi.org/10.1016/j.jtrangeo.2023.103532). _Journal of Transport Geography_, 107, 103532.
 1. Liang, Y.&dagger;, **Zhao, Z.**\*, and Zhang, X. (2022). [Modeling taxi cruising time based on multi-source data: A case study in Shanghai](https://doi.org/10.1007/s11116-022-10348-y). _Transportation_, accepted in October 2022.
 1. **Zhao, Z.**\*, Koutsopoulos, H. N., and Zhao, J. (2022). [Identifying hidden visits from sparse call detail record data](https://doi.org/10.1177/27541231221124164). _Transactions in Urban Data, Science, and Technology_, 1(3–4), 121–141.
 1. Liang, Y.&dagger;, **Zhao, Z.**\*, and Sun, L. (2022). [Memory-augmented dynamic graph convolutional networks for traffic data imputation with diverse missing patterns](https://doi.org/10.1016/j.trc.2022.103826). _Transportation Research Part C: Emerging Technologies_, 143, 103826.
