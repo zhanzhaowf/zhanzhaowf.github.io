@@ -31,20 +31,21 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (HIT); MS (Tongji)
 * Email: fyding@connect.hku.hk
 
+### Ms Luyun Zhao, PhD Student (02/2023 - Present)
+* BS (Peking); MS (Penn)
+* Email: zhaoluyun1992@163.com
+
 ### Mr Yihong Tang, MPhil Student (09/2022 - Present)
 * BS (BUPT)
 * Email: yihongt@connect.hku.hk
 
-### Ms Zhengyi Ge, Research Assistant (07/2022 - Present)
-* BS (Southeast); MS (NUS)
-* Email: gzyjenny@hku.hk
-
 ### Ms Xiaohan Wang, Research Assistant (08/2022 - Present)
 * BS (Chongqing); MS (HKU)
-* Email: xiaohan.wang.527@gmail.com
+* Email: wxh0o0@connect.hku.hk
 
 
 ## Alumni
+* Ms Zhengyi Ge, Research Assistant (07/2022 - 11/2022)
 * Mr Jintai Li, Research Assistant (06/2021 - 01/2022)
 
 
