@@ -33,7 +33,7 @@ Our team is composed of bright young scholars from various background, all inter
 
 ### Ms Luyun Zhao, PhD Student (02/2023 - Present)
 * BS (Peking); MS (Penn)
-* Email: zhaoluyun1992@163.com
+* Email: luyunzh@connect.hku.hk
 
 ### Mr Yihong Tang, MPhil Student (09/2022 - Present)
 * BS (BUPT)
