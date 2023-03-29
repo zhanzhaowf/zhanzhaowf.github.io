@@ -11,7 +11,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 ## Preprints and Working Papers
 * Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
-* Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). Quantifying the uneven efficiency benefits from ridesharing market integration.
+* Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
 * Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://arxiv.org/abs/2303.11977).
 * Huang, G.&dagger;, Lian, T., Yeh, A.G.O. and **Zhao, Z.**\* (2023). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
