@@ -26,7 +26,7 @@ https://doi.org/10.48550/arXiv.2301.00117).
 
 
 ## Journal Publications
-1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S. and Su, S. (2022) [Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study](https://doi.org/10.1016/j.tbs.2023.100587). _Travel Behaviour and Society_, 100587.
+1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S. and Su, S. (2023) [Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study](https://doi.org/10.1016/j.tbs.2023.100587). _Travel Behaviour and Society_, 100587.
 1. **Zhao, Z.**\* and Liang, Y.&dagger; (2023). [A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards](https://doi.org/10.1016/j.trc.2023.104079). _Transportation Research Part C: Emerging Technologies_, 149, 104079.
 1. Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S. and **Zhao, Z.**  (2023). [Introducing social contacts into the node-place model: A case study of Hong Kong](https://doi.org/10.1016/j.jtrangeo.2023.103532). _Journal of Transport Geography_, 107, 103532.
 1. Liang, Y.&dagger;, **Zhao, Z.**\* and Zhang, X. (2022). [Modeling taxi cruising time based on multi-source data: A case study in Shanghai](https://doi.org/10.1007/s11116-022-10348-y). _Transportation_. https://doi.org/10.1007/s11116-022-10348-y
