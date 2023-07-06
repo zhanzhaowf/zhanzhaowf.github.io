@@ -13,7 +13,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
-* Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://arxiv.org/abs/2303.11977).
 * Huang, G.&dagger;, Lian, T., Yeh, A.G.O. and **Zhao, Z.**\* (2023). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
 * Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
@@ -26,6 +25,7 @@ https://doi.org/10.48550/arXiv.2301.00117).
 
 
 ## Journal Publications
+1. Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://arxiv.org/abs/2303.11977). _Transportation Research Part C: Emerging Technologies_, accepted in July 2023.
 1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., Su, S. and Ren, M. (2023). [Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study](https://doi.org/10.1016/j.tbs.2023.100587). _Travel Behaviour and Society_, 100587.
 1. **Zhao, Z.**\* and Liang, Y.&dagger; (2023). [A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards](https://doi.org/10.1016/j.trc.2023.104079). _Transportation Research Part C: Emerging Technologies_, 149, 104079.
 1. Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S. and **Zhao, Z.**  (2023). [Introducing social contacts into the node-place model: A case study of Hong Kong](https://doi.org/10.1016/j.jtrangeo.2023.103532). _Journal of Transport Geography_, 107, 103532.
@@ -55,6 +55,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Papers
+1. Liang, Y.&dagger;, Ding, F.&dagger;, Tang, Y.&dagger;, and **Zhao, Z.**\* (2023). Time-aware trip generation for bike sharing system planning. _The 12th ACM SIGKDD International Workshop on Urban Computing (UrbComp'23)_, Long Beach, CA, USA.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://doi.org/10.1109/ITSC55140.2022.9922276). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
 1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
 1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2018). [Detecting changes in individual travel behavior patterns](https://trid.trb.org/view/1494577). _Transportation Research Board 97th Annual Meeting_, Washington, DC.
