@@ -25,7 +25,7 @@ https://doi.org/10.48550/arXiv.2301.00117).
 
 
 ## Journal Publications
-1. Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://arxiv.org/abs/2303.11977). _Transportation Research Part C: Emerging Technologies_, accepted in July 2023.
+1. Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger;, and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://doi.org/10.1016/j.trc.2023.104241). _Transportation Research Part C: Emerging Technologies_, 154, 104241.
 1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., Su, S. and Ren, M. (2023). [Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study](https://doi.org/10.1016/j.tbs.2023.100587). _Travel Behaviour and Society_, 100587.
 1. **Zhao, Z.**\* and Liang, Y.&dagger; (2023). [A deep inverse reinforcement learning approach to route choice modeling with context-dependent rewards](https://doi.org/10.1016/j.trc.2023.104079). _Transportation Research Part C: Emerging Technologies_, 149, 104079.
 1. Zhou, M., Zhou, J.\* &dagger;, Zhou, J., Lei, S. and **Zhao, Z.**  (2023). [Introducing social contacts into the node-place model: A case study of Hong Kong](https://doi.org/10.1016/j.jtrangeo.2023.103532). _Journal of Transport Geography_, 107, 103532.
