@@ -11,10 +11,10 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 ## Preprints and Working Papers
 * Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2023). Planning decentralized battery swapping facilities for E-bike sharing systems.
-* Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Bikeable streets: Uncovering the effects of link-level street design on bike-sharing usage.
+* Hu, Y.&dagger; and **Zhao, Z.**\* (2023). Bikeable streets: Uncovering the effects of link-level street design on bike-sharing usage.
 * Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
-* Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
+* Hu, Y.&dagger; and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
 * Huang, G.&dagger;, Lian, T., Yeh, A.G.O. and **Zhao, Z.**\* (2023). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
 * Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
