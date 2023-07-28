@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2023). Planning decentralized battery swapping facilities for E-bike sharing systems.
 * Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Hu, Y.&dagger;, and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
