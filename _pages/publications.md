@@ -58,7 +58,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Papers
-1. Liang, Y.&dagger;, Ding, F.&dagger;, Tang, Y.&dagger;, and **Zhao, Z.**\* (2023). Time-aware trip generation for bike sharing system planning. _The 12th ACM SIGKDD International Workshop on Urban Computing (UrbComp'23)_, Long Beach, CA, USA.
+1. Liang, Y.&dagger;, Ding, F.&dagger;, Tang, Y.&dagger;, and **Zhao, Z.**\* (2023). [Time-aware trip generation for bike sharing system planning](http://urban-computing.com/urbcomp2023/file/UrbComp2023_paper_5.pdf). _The 12th ACM SIGKDD International Workshop on Urban Computing (UrbComp'23)_, Long Beach, CA, USA.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://doi.org/10.1109/ITSC55140.2022.9922276). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
 1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
 1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2018). [Detecting changes in individual travel behavior patterns](https://trid.trb.org/view/1494577). _Transportation Research Board 97th Annual Meeting_, Washington, DC.
