@@ -69,6 +69,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 1. **Zhao, Z.**, Zhao, J. and Koutsopoulos, H. N. (2016). [Individual-level trip detection using sparse call detail record data based on supervised statistical learning](https://trid.trb.org/view/1393647). _Transportation Research Board 95th Annual Meeting_, Washington, DC.
 1. **Zhao, Z.** and Zhao, J. (2015). [Car pride: Psychological structure and behavioral implications](https://trid.trb.org/view/1336944). _Transportation Research Board 94th Annual Meeting_, Washington, DC.
 1. **Zhao, Z.**, Chua G. and Zhao, J. (2012). [Evolution of trip chaining patterns in London from 1991 to 2010](http://onlinepubs.trb.org/onlinepubs/conferences/2012/4thITM/Papers-R/0117-000122.pdf). _Innovations in Travel Modelling Conference_, Tampa, FL.
+1. Kang, L., Lin, B., **Zhao, Z.** and Jin, L. (2010). [The traffic control system at urban intersections during the phase transitions based on VII](https://doi.org/10.1109/ICCASM.2010.5622691). _2010 International Conference on Computer Application and System Modeling (ICCASM 2010)_, Taiyuan, China.
 
 ## Book Chapters
 1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2020). [Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling](https://doi.org/10.1016/B978-0-12-815018-4.00007-3). Chapter 7 for _Demand for Emerging Transportation Systems_.
