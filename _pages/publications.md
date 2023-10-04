@@ -14,7 +14,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). RouteKG: A knowledge graph-based framework for route prediction on road networks. 
 * Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2023). Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J. and **Zhao, Z.**  (2023). Node, place and resilience: A perspective for classifying metro stations considering urban crises.
-* Hu, Y.&dagger; and **Zhao, Z.**\* (2023). Bikeable streets: Uncovering the effects of link-level street design on bike-sharing usage.
 * Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Hu, Y.&dagger; and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
@@ -25,7 +24,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Zhou, J.&dagger;, Zhou, M., Zhou, J. and **Zhao, Z.**\* (2022). [Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks](
 https://doi.org/10.48550/arXiv.2301.00117).
 * Zhou, J.&dagger;, **Zhao, Z**\* and Zhou, J. (2022). [Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing](https://doi.org/10.48550/arXiv.2210.01005).
-* Hu, Y.&dagger; and **Zhao, Z.**\* (2022). Quantifying the impact of urban built environment on traffic congestion patterns: A network-based multi-city study.
 
 
 ## Journal Publications
