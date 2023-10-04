@@ -29,7 +29,7 @@ https://doi.org/10.48550/arXiv.2301.00117).
 
 
 ## Journal Publications
-1. * Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903). _IEEE Transactions on Intelligent Transportation Systems_, accepted in October 2023.
+1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903). _IEEE Transactions on Intelligent Transportation Systems_, accepted in October 2023.
 1. Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://doi.org/10.1016/j.trc.2023.104241). _Transportation Research Part C: Emerging Technologies_, 154, 104241.
 1. Jiang, F., Ma, J.\*, Webster, C.J., Chiaradia, A.J.F., Zhou, Y., **Zhao, Z.** and Zhang, X. (2023). [Generative urban design: A systematic review on problem formulation, design generation, and decision-making](https://doi.org/10.1016/j.progress.2023.100795). Progress in Planning, 100795.
 1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., Su, S. and Ren, M. (2023). [Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study](https://doi.org/10.1016/j.tbs.2023.100587). _Travel Behaviour and Society_, 100587.
