@@ -19,7 +19,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Hu, Y.&dagger; and **Zhao, Z.**\* (2023). Modeling cycling flows on street networks using graph convolutional network-based spatial regression.
 * Huang, G.&dagger;, Lian, T., Yeh, A.G.O. and **Zhao, Z.**\* (2023). To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach.
-* Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
 * Huang, G.&dagger;, Liang, Y.&dagger; and **Zhao, Z.**\* (2022). [Understanding spatiotemporal dynamics of market competition among transportation network companies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203695).
 * Zhang, H., Guo, X.\*, Wang, X.&dagger; **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
@@ -30,6 +29,7 @@ https://doi.org/10.48550/arXiv.2301.00117).
 
 
 ## Journal Publications
+1. * Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://arxiv.org/abs/2211.08903). _IEEE Transactions on Intelligent Transportation Systems_, accepted in October 2023.
 1. Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://doi.org/10.1016/j.trc.2023.104241). _Transportation Research Part C: Emerging Technologies_, 154, 104241.
 1. Jiang, F., Ma, J.\*, Webster, C.J., Chiaradia, A.J.F., Zhou, Y., **Zhao, Z.** and Zhang, X. (2023). [Generative urban design: A systematic review on problem formulation, design generation, and decision-making](https://doi.org/10.1016/j.progress.2023.100795). Progress in Planning, 100795.
 1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Park, S., Su, S. and Ren, M. (2023). [Understanding changing public transit travel patterns of urban visitors during COVID-19: A multi-stage study](https://doi.org/10.1016/j.tbs.2023.100587). _Travel Behaviour and Society_, 100587.
