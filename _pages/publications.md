@@ -11,7 +11,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 ## Preprints and Working Papers
 * Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2023). Planning decentralized battery-swapping recharging facilities for e-bike sharing systems.
-* Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). RouteKG: A knowledge graph-based framework for route prediction on road networks. 
+* Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2023). Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J. and **Zhao, Z.**  (2023). Node, place and resilience: A perspective for classifying metro stations considering urban crises.
 * Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
