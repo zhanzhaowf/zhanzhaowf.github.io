@@ -24,7 +24,7 @@ https://doi.org/10.48550/arXiv.2301.00117).
 
 
 ## Journal Publications
-1. Huang, G.&dagger;, Liang, Y.&dagger; and **Zhao, Z.**\* (2023). [Understanding market competition among transportation network companies using big data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4203695).  _Transportation Research Part A: Policy and Practice_, accepted in October 2023.
+1. Huang, G.&dagger;, Liang, Y.&dagger; and **Zhao, Z.**\* (2023). [Understanding market competition among transportation network companies using big data](https://doi.org/10.1016/j.tra.2023.103861). _Transportation Research Part A: Policy and Practice_, 178, 103861.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://doi.org/10.1109/TITS.2023.3322717). _IEEE Transactions on Intelligent Transportation Systems_, accepted in October 2023.
 1. Huang, G.&dagger;, Lian, T., Yeh, A.G.O. and **Zhao, Z.**\* (2023). [To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach](https://doi.org/10.1016/j.trc.2023.104372). _Transportation Research Part C: Emerging Technologies_, 157, 104372.
 1. Liang, Y.&dagger;, Ding, F.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Deep trip generation with graph neural networks for bike sharing system expansion](https://doi.org/10.1016/j.trc.2023.104241). _Transportation Research Part C: Emerging Technologies_, 154, 104241.
