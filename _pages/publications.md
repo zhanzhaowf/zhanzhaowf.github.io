@@ -14,7 +14,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2023). Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J. and **Zhao, Z.**  (2023). Node, place and resilience: A perspective for classifying metro stations considering urban crises.
-* Fu, T., Li, X., Wang, J.\*, Zhang, L., **Zhao, Z.** and Sobhani, A. (2023). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
 * Zhang, H., Guo, X.\*, Wang, X.&dagger; **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
