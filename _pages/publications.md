@@ -18,12 +18,11 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
 * Zhang, H., Guo, X.\*, Wang, X.&dagger; **Zhao, Z.**, and Zhao, J. (2022). Economies and diseconomies of scale in segmented mobility sharing markets.
-* Zhou, J.&dagger;, Zhou, M., Zhou, J. and **Zhao, Z.**\* (2022). [Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks](
-https://doi.org/10.48550/arXiv.2301.00117).
 * Zhou, J.&dagger;, **Zhao, Z**\* and Zhou, J. (2022). [Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing](https://doi.org/10.48550/arXiv.2210.01005).
 
 
 ## Journal Publications
+1. Zhou, J.&dagger;, Zhou, M., Zhou, J. and **Zhao, Z.**\* (2023). [Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks](https://doi.org/10.48550/arXiv.2301.00117). _Communications in Transportation Research_, accepted in November, 2023.
 1. Huang, G.&dagger;, Liang, Y.&dagger; and **Zhao, Z.**\* (2023). [Understanding market competition among transportation network companies using big data](https://doi.org/10.1016/j.tra.2023.103861). _Transportation Research Part A: Policy and Practice_, 178, 103861.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://doi.org/10.1109/TITS.2023.3322717). _IEEE Transactions on Intelligent Transportation Systems_, accepted in October 2023.
 1. Huang, G.&dagger;, Lian, T., Yeh, A.G.O. and **Zhao, Z.**\* (2023). [To share or not to share? Revealing determinants of individuals' willingness to share rides through a big data approach](https://doi.org/10.1016/j.trc.2023.104372). _Transportation Research Part C: Emerging Technologies_, 157, 104372.
