@@ -15,7 +15,7 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Tongji); MS (UBC); PhD (MIT)
 * Email: zhanzhao@hku.hk
 
-### Jiali Zhou, PhD, Postdoctoral Fellow (09/2021 - Present)
+### Jiali Zhou, Research Assistant Professor (09/2023 - Present)
 * BS (SCUT); MS (CMU); PhD (Northeastern U)
 * Email: jlzhou@hku.hk
 
