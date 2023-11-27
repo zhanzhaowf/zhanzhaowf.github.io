@@ -15,33 +15,33 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Tongji); MS (UBC); PhD (MIT)
 * Email: zhanzhao@hku.hk
 
-### Dr Jiali Zhou, Postdoctoral Fellow (09/2021 - Present)
+### Jiali Zhou, PhD, Postdoctoral Fellow (09/2021 - Present)
 * BS (SCUT); MS (CMU); PhD (Northeastern U)
 * Email: jlzhou@hku.hk
 
-### Ms Yuebing Liang, PhD Student (10/2020 - Present)
+### Yuebing Liang, PhD Student (10/2020 - Present)
 * BS (Tsinghua); MS (Tsinghua)
 * Email: yuebingliang@connect.hku.hk
 
-### Ms Yijia Hu, PhD Student (09/2021 - Present)
+### Yijia Hu, PhD Student (09/2021 - Present)
 * BS (Zhejiang); MS (CityU)
 * Email: yijiahu@connect.hku.hk
 
-### Ms Fangyi Ding, PhD Student (09/2022 - Present)
+### Fangyi Ding, PhD Student (09/2022 - Present)
 * BS (HIT); MS (Tongji)
 * Email: fyding@connect.hku.hk
 
-### Ms Luyun Zhao, PhD Student (02/2023 - Present)
+### Luyun Zhao, PhD Student (02/2023 - Present)
 * BS (Peking); MS (Penn)
 * Email: luyunzh@connect.hku.hk
 
-### Mr Yihong Tang, MPhil Student (09/2022 - Present)
+### Xiaohan Wang, PhD Student (06/2023 - Present)
+* BS (Chongqing); MS (HKU)
+* Email: xiaohan.wang@connect.hku.hk
+
+### Yihong Tang, MPhil Student (09/2022 - Present)
 * BS (BUPT)
 * Email: yihongt@connect.hku.hk
-
-### Ms Xiaohan Wang, Research Assistant (08/2022 - Present)
-* BS (Chongqing); MS (HKU)
-* Email: wxh0o0@connect.hku.hk
 
 
 ## Alumni
@@ -54,5 +54,6 @@ Our team is composed of bright young scholars from various background, all inter
 * Professor Haris N. Koutsopoulos, Northeastern University ([link](https://coe.northeastern.edu/people/koutsopoulos-haris/))
 * Professor Nigel H.M. Wilson, MIT ([link](https://cee.mit.edu/people_individual/nigel-wilson/))
 * Professor Lijun Sun, McGill University ([link](https://www.mcgill.ca/civil/lijun-sun))
-* Dr Hongmou Zhang, Peking University ([link](https://www.sg.pku.edu.cn/szdw/zzjs/csyqyglx1/1339592.htm))
-* Dr Yang Xu, Hong Kong Polytechnic University ([link](https://yangxu-git.github.io/))
+* Professor Zhenliang Ma, KTH ([link](https://www.kth.se/profile/zhema))
+* Professor Hongmou Zhang, Peking University ([link](https://www.sg.pku.edu.cn/szdw/zzjs/csyqyglx1/1339592.htm))
+* Professor Yang Xu, Hong Kong Polytechnic University ([link](https://yangxu-git.github.io/))
