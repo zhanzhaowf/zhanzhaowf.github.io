@@ -11,7 +11,7 @@ Our team is composed of bright young scholars from various background, all inter
 
 ## Current Team
 
-### Dr Zhan Zhao, Assistant Professor (07/2020 - Present)
+### Zhan Zhao, Assistant Professor (07/2020 - Present)
 * BS (Tongji); MS (UBC); PhD (MIT)
 * Email: zhanzhao@hku.hk
 
