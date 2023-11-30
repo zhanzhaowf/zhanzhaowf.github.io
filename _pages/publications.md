@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2023). [Exploring large language models for human mobility prediction under public events](https://arxiv.org/abs/2311.17351).
 * Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2023). Planning decentralized battery-swapping recharging facilities for e-bike sharing systems.
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2023). Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off.
