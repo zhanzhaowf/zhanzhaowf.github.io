@@ -11,7 +11,6 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 ## Preprints and Working Papers
 * Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2023). [Exploring large language models for human mobility prediction under public events](https://arxiv.org/abs/2311.17351).
-* Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2023). Planning decentralized battery-swapping recharging facilities for e-bike sharing systems.
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2023). Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off.
 * Zhou, M., Zhou, J.\* &dagger;, Zhou, J. and **Zhao, Z.**  (2023). Node, place and resilience: A perspective for classifying metro stations considering urban crises.
@@ -22,6 +21,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
+1. Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2024). Planning decentralized battery-swapping recharging facilities for e-bike sharing systems. _Sustainable Cities and Society_, accepted in December 2023.
 1. Zhou, J.&dagger;\*, Zhou, M., Zhou, J. and **Zhao, Z.** (2023). [Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks](https://doi.org/10.1016/j.commtr.2023.100110). _Communications in Transportation Research_, 3, 100110.
 1. Huang, G.&dagger;, Liang, Y.&dagger; and **Zhao, Z.**\* (2023). [Understanding market competition among transportation network companies using big data](https://doi.org/10.1016/j.tra.2023.103861). _Transportation Research Part A: Policy and Practice_, 178, 103861.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2023). [Cross-mode knowledge adaptation for bike sharing demand prediction using adversarial graph neural networks](https://doi.org/10.1109/TITS.2023.3322717). _IEEE Transactions on Intelligent Transportation Systems_, accepted in October 2023.
