@@ -20,7 +20,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-1. Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2024). Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off. _Transportation Research Part D: Transport and Environment_, accepted in January 2024.
+1. Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2024). [Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off](https://doi.org/10.1016/j.trd.2024.104064 ). _Transportation Research Part D: Transport and Environment_, 127, 104064.
 1. Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2024). [Planning decentralized battery-swapping recharging facilities for e-bike sharing systems](https://doi.org/10.1016/j.scs.2023.105118). _Sustainable Cities and Society_, 101, 105118.
 1. Zhou, J.&dagger;\*, Zhou, M., Zhou, J. and **Zhao, Z.** (2023). [Adapting node-place model to predict and monitor COVID-19 footprints and transmission risks](https://doi.org/10.1016/j.commtr.2023.100110). _Communications in Transportation Research_, 3, 100110.
 1. Huang, G.&dagger;, Liang, Y.&dagger; and **Zhao, Z.**\* (2023). [Understanding market competition among transportation network companies using big data](https://doi.org/10.1016/j.tra.2023.103861). _Transportation Research Part A: Policy and Practice_, 178, 103861.
