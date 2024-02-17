@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* Tang, Y.&dagger;, Wang, Z., Qu, A., Yan, Y., Hou, K., Zhuang, D., Guo, X., Zhao, J., **Zhao, Z.** and Ma, W.\* (2024). [Synergizing spatial optimization with large language models for open-domain urban itinerary planning](https://arxiv.org/abs/2402.07204).
 * Ding, F.&dagger;, **Zhao, Z.**\*, Han, Y. and Xu, Y. (2024). Does e-shopping mitigate the impact of land use on travel behavior? Evidence from large-scale mobile phone data in Shanghai.
 * Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2023). [Exploring large language models for human mobility prediction under public events](https://arxiv.org/abs/2311.17351).
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
@@ -19,6 +20,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
+1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Tu, W., Park, S. and Li, Q. (2024). [Assessing effects of pandemic-related policies on individual public transit travel patterns: A Bayesian online changepoint detection based framework](https://doi.org/10.1016/j.tra.2024.104003). _Transportation Research Part A: Policy and Practice_, 181, 104003.
 1. Liang, Y.&dagger;, **Zhao, Z.**\*, Ding, F.&dagger;, Tang, Y.&dagger; and He, Z. (2024). [Time-dependent trip generation for bike sharing planning: A multi-task memory-augmented graph neural network](https://doi.org/10.1016/j.inffus.2024.102294). _Information Fusion_, 102294.
 1. Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2024). [Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off](https://doi.org/10.1016/j.trd.2024.104064 ). _Transportation Research Part D: Transport and Environment_, 127, 104064.
 1. Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2024). [Planning decentralized battery-swapping recharging facilities for e-bike sharing systems](https://doi.org/10.1016/j.scs.2023.105118). _Sustainable Cities and Society_, 101, 105118.
