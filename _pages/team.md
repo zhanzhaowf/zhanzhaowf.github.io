@@ -44,11 +44,6 @@ Our team is composed of bright young scholars from various background, all inter
 * Email: yihongt@connect.hku.hk
 
 
-## Alumni
-* Ms Zhengyi Ge, Research Assistant (07/2022 - 11/2022)
-* Mr Jintai Li, Research Assistant (06/2021 - 01/2022)
-
-
 ## Collaborators
 * Professor Jinhua Zhao, MIT ([link](https://dusp.mit.edu/faculty/jinhua-zhao))
 * Professor Haris N. Koutsopoulos, Northeastern University ([link](https://coe.northeastern.edu/people/koutsopoulos-haris/))
