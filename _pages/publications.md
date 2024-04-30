@@ -20,7 +20,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-1. Huang, G.&dagger;, **Zhao, Z.**\* and Yeh, A.G.O. (2024). How shareable is your trip? A path-based analysis of ridesplitting trip shareability. _Computer, Environment and Urban Systems_, accepted in April 2024.
+1. Huang, G.&dagger;, **Zhao, Z.**\* and Yeh, A.G.O. (2024). [How shareable is your trip? A path-based analysis of ridesplitting trip shareability](https://doi.org/10.1016/j.compenvurbsys.2024.102120). _Computer, Environment and Urban Systems_, 110, 102120.
 1. Lin, Y., Xu, Y.\*, **Zhao, Z.**, Tu, W., Park, S. and Li, Q. (2024). [Assessing effects of pandemic-related policies on individual public transit travel patterns: A Bayesian online changepoint detection based framework](https://doi.org/10.1016/j.tra.2024.104003). _Transportation Research Part A: Policy and Practice_, 181, 104003.
 1. Liang, Y.&dagger;, **Zhao, Z.**\*, Ding, F.&dagger;, Tang, Y.&dagger; and He, Z. (2024). [Time-dependent trip generation for bike sharing planning: A multi-task memory-augmented graph neural network](https://doi.org/10.1016/j.inffus.2024.102294). _Information Fusion_, 106, 102294.
 1. Ding, F.&dagger;, Chen, S. and **Zhao, Z.**\* (2024). [Incorporating walking into ride-hailing: The potential benefits of flexible pick-up and drop-off](https://doi.org/10.1016/j.trd.2024.104064 ). _Transportation Research Part D: Transport and Environment_, 127, 104064.
