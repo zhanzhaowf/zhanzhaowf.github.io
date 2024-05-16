@@ -16,7 +16,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2023). [Exploring large language models for human mobility prediction under public events](https://arxiv.org/abs/2311.17351).
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
-* Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2022). [HGARN: Hierarchical graph attention recurrent network for human mobility prediction](https://arxiv.org/abs/2210.07765).
+* Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2023). [Activity-aware human mobility prediction with hierarchical graph attention recurrent network](https://arxiv.org/abs/2210.07765).
 * Zhou, J.&dagger;, **Zhao, Z**\* and Zhou, J. (2022). [Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing](https://doi.org/10.48550/arXiv.2210.01005).
 
 
