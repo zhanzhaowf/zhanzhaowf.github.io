@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
+* Hu, Y.&dagger;, Zhao, M. and **Zhao, Z.**\* (2024). Uncovering heterogeneous effects of link-level street environment on e-bike and e-scooter usage.
 * Ding, F.&dagger;, **Zhao, Z.**\*, Han, Y. and Xu, Y. (2024). Does e-shopping mitigate the impact of land use on travel behavior? Evidence from large-scale mobile phone data in Shanghai.
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
@@ -19,6 +20,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 ## Journal Publications
 1. Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2023). [Exploring large language models for human mobility prediction under public events](https://arxiv.org/abs/2311.17351). _Computer, Environment and Urban Systems_, accepted in July 2024.
+1. Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network. _IEEE Transactions on Intelligent Transportation Systems_, accepted in June 2024.
 1. Hu, Y.&dagger;, Chen, L. and **Zhao, Z.**\* (2024). [How does street environment affect pedestrian crash risks? A link-level analysis using street view image-based pedestrian exposure measurement](https://doi.org/10.1016/j.aap.2024.107682). _Accident Analysis & Prevention_, 205, 107682.
 1. Yang, H., Jiang, J.\*, **Zhao, Z.**, Pan, R. and Tao, S. (2024). [STVANet: A spatio-temporal visual attention framework with large kernel attention mechanism for citywide traffic dynamics prediction](https://doi.org/10.1016/j.eswa.2024.124466). _Expert Systems with Applications_, 254, 124466.
 1. Huang, G.&dagger;, **Zhao, Z.**\* and Yeh, A.G.O. (2024). [How shareable is your trip? A path-based analysis of ridesplitting trip shareability](https://doi.org/10.1016/j.compenvurbsys.2024.102120). _Computer, Environment and Urban Systems_, 110, 102120.
