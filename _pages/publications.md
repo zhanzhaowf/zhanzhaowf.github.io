@@ -10,7 +10,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Preprints and Working Papers
-* Tang, Y.&dagger;, Wang, Z., Qu, A., Yan, Y., Hou, K., Zhuang, D., Guo, X., Zhao, J., **Zhao, Z.** and Ma, W.\* (2024). [Synergizing spatial optimization with large language models for open-domain urban itinerary planning](https://arxiv.org/abs/2402.07204).
 * Ding, F.&dagger;, **Zhao, Z.**\*, Han, Y. and Xu, Y. (2024). Does e-shopping mitigate the impact of land use on travel behavior? Evidence from large-scale mobile phone data in Shanghai.
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617). 
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
@@ -62,6 +61,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Papers
+1. Tang, Y.&dagger;, Wang, Z., Qu, A., Yan, Y., Hou, K., Zhuang, D., Guo, X., Zhao, J., **Zhao, Z.** and Ma, W.\* (2024). [Synergizing spatial optimization with large language models for open-domain urban itinerary planning](https://arxiv.org/abs/2402.07204). _The 13th ACM SIGKDD International Workshop on Urban Computing (UrbComp'24)_, Barcelona, Spain.
 1. Liang, Y.&dagger;, Ding, F.&dagger;, Tang, Y.&dagger;, and **Zhao, Z.**\* (2023). [Time-aware trip generation for bike sharing system planning](http://urban-computing.com/urbcomp2023/file/UrbComp2023_paper_5.pdf). _The 12th ACM SIGKDD International Workshop on Urban Computing (UrbComp'23)_, Long Beach, CA, USA.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://doi.org/10.1109/ITSC55140.2022.9922276). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
 1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2018). [Discovering latent activity patterns from human mobility](http://urbcomp.ist.psu.edu/2018/papers/discovering.pdf). _The 7th ACM SIGKDD International Workshop on Urban Computing (UrbComp'18)_, London, UK.
