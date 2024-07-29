@@ -21,7 +21,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-1. Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2024). [Exploring large language models for human mobility prediction under public events](https://arxiv.org/abs/2311.17351). _Computer, Environment and Urban Systems_, accepted in July 2024.
+1. Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2024). [Exploring large language models for human mobility prediction under public events](https://doi.org/10.1016/j.compenvurbsys.2024.102153). _Computer, Environment and Urban Systems_, 112, 102153.
 1. Hu, Y.&dagger;, Chen, L. and **Zhao, Z.**\* (2024). [How does street environment affect pedestrian crash risks? A link-level analysis using street view image-based pedestrian exposure measurement](https://doi.org/10.1016/j.aap.2024.107682). _Accident Analysis & Prevention_, 205, 107682.
 1. Yang, H., Jiang, J.\*, **Zhao, Z.**, Pan, R. and Tao, S. (2024). [STVANet: A spatio-temporal visual attention framework with large kernel attention mechanism for citywide traffic dynamics prediction](https://doi.org/10.1016/j.eswa.2024.124466). _Expert Systems with Applications_, 254, 124466.
 1. Huang, G.&dagger;, **Zhao, Z.**\* and Yeh, A.G.O. (2024). [How shareable is your trip? A path-based analysis of ridesplitting trip shareability](https://doi.org/10.1016/j.compenvurbsys.2024.102120). _Computer, Environment and Urban Systems_, 110, 102120.
