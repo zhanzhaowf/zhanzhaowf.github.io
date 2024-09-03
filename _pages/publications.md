@@ -13,13 +13,13 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 * Hu, Y.&dagger;, Zhao, M. and **Zhao, Z.**\* (2024). Uncovering heterogeneous effects of link-level street environment on e-bike and e-scooter usage.
 * Ding, F.&dagger;, **Zhao, Z.**\*, Han, Y. and Xu, Y. (2024). Does e-shopping mitigate the impact of land use on travel behavior? Evidence from large-scale mobile phone data in Shanghai.
 * Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617).
-* Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network.
 * Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
 * Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2023). [Activity-aware human mobility prediction with hierarchical graph attention recurrent network](https://arxiv.org/abs/2210.07765).
 * Zhou, J.&dagger;, **Zhao, Z**\* and Zhou, J. (2022). [Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing](https://doi.org/10.48550/arXiv.2210.01005).
 
 
 ## Journal Publications
+1. Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network. _IEEE Transactions on Intelligent Transportation Systems_, accepted in September 2024.
 1. Liang, Y.&dagger;, **Zhao, Z.**\* and Webster, C. (2024). [Generating sparse origin-destination flows on shared mobility networks using probabilistic graph neural networks](https://doi.org/10.1016/j.scs.2024.105777). _Sustainable Cities and Society_, 105777.
 1. Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2024). [Exploring large language models for human mobility prediction under public events](https://doi.org/10.1016/j.compenvurbsys.2024.102153). _Computer, Environment and Urban Systems_, 112, 102153.
 1. Hu, Y.&dagger;, Chen, L. and **Zhao, Z.**\* (2024). [How does street environment affect pedestrian crash risks? A link-level analysis using street view image-based pedestrian exposure measurement](https://doi.org/10.1016/j.aap.2024.107682). _Accident Analysis & Prevention_, 205, 107682.
