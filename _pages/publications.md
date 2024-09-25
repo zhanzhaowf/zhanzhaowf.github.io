@@ -19,7 +19,7 @@ Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students
 
 
 ## Journal Publications
-1. Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network. _IEEE Transactions on Intelligent Transportation Systems_, accepted in September 2024.
+1. Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). [Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network](https://ieeexplore.ieee.org/document/10689333). _IEEE Transactions on Intelligent Transportation Systems_, early access.
 1. Liang, Y.&dagger;, **Zhao, Z.**\* and Webster, C. (2024). [Generating sparse origin-destination flows on shared mobility networks using probabilistic graph neural networks](https://doi.org/10.1016/j.scs.2024.105777). _Sustainable Cities and Society_, 105777.
 1. Liang, Y.&dagger;, Liu, Y., Wang, X.&dagger; and **Zhao, Z.**\* (2024). [Exploring large language models for human mobility prediction under public events](https://doi.org/10.1016/j.compenvurbsys.2024.102153). _Computer, Environment and Urban Systems_, 112, 102153.
 1. Hu, Y.&dagger;, Chen, L. and **Zhao, Z.**\* (2024). [How does street environment affect pedestrian crash risks? A link-level analysis using street view image-based pedestrian exposure measurement](https://doi.org/10.1016/j.aap.2024.107682). _Accident Analysis & Prevention_, 205, 107682.
