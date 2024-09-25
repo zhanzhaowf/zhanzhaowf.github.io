@@ -64,6 +64,7 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 
 
 ## Conference Papers
+1. Ding, F.&dagger;, Liang, Y.&dagger;, Wang, Y.&dagger;, Tang, Y., Zhou, Y., and **Zhao, Z.**\* (2024). A graph deep learning model for station ridership prediction in expanding metro networks. _The 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (UrbanAI’24)_, Atlanta, GA, USA.
 1. Tang, Y.&dagger;, Wang, Z., Qu, A., Yan, Y., Hou, K., Zhuang, D., Guo, X., Zhao, J., **Zhao, Z.** and Ma, W.\* (2024). [Synergizing spatial optimization with large language models for open-domain urban itinerary planning](https://arxiv.org/abs/2402.07204). _The 13th ACM SIGKDD International Workshop on Urban Computing (UrbComp'24)_, Barcelona, Spain. (**Best Paper Award**)
 1. Liang, Y.&dagger;, Ding, F.&dagger;, Tang, Y.&dagger;, and **Zhao, Z.**\* (2023). [Time-aware trip generation for bike sharing system planning](http://urban-computing.com/urbcomp2023/file/UrbComp2023_paper_5.pdf). _The 12th ACM SIGKDD International Workshop on Urban Computing (UrbComp'23)_, Long Beach, CA, USA.
 1. Liang, Y.&dagger;, Huang, G.&dagger; and **Zhao, Z.**\* (2022). [Bike sharing demand prediction based on knowledge sharing across modes: A graph-based deep learning approach](https://doi.org/10.1109/ITSC55140.2022.9922276). _IEEE Intelligent Transportation Systems Conference_, Macau, China.
