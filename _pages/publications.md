@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Journal Publications
+1. Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2023). [Activity-aware human mobility prediction with hierarchical graph attention recurrent network](https://arxiv.org/abs/2210.07765). _IEEE Transactions on Intelligent Transportation Systems_, early access.
 1. Zhang, Q., Ma, Z.\*, Ling, Y., Qin, Z., Zhang, P. and **Zhao, Z.** (2024). Causal graph discovery for urban bus operation delays: A case in Stockholm. _Transportation Research Record: Journal of the Transportation Research Board_, accepted in November 2024.
 1. Hu, Y.&dagger;, Zhao, M. and **Zhao, Z.**\* (2024). [Uncovering heterogeneous effects of link-level street environment on e-bike and e-scooter usage](https://doi.org/10.1016/j.trd.2024.104477). _Transportation Research Part D: Transport and Environment_, 136, 104477.
 1. Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). [Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network](https://ieeexplore.ieee.org/document/10689333). _IEEE Transactions on Intelligent Transportation Systems_, early access.
@@ -70,10 +71,4 @@ growth?](https://doi.org/10.3141/2394-11) _Transportation Research Record: Journ
 1. Kang, L., Lin, B., **Zhao, Z.** and Jin, L. (2010). [The traffic control system at urban intersections during the phase transitions based on VII](https://doi.org/10.1109/ICCASM.2010.5622691). _2010 International Conference on Computer Application and System Modeling (ICCASM 2010)_, Taiyuan, China.
 
 ## Book Chapters
-1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2020). [Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling](https://doi.org/10.1016/B978-0-12-815018-4.00007-3). Chapter 7 for _Demand for Emerging Transportation Systems_.
-
-## Preprints
-* Tang, Y.&dagger;, Deng, W., Lei, S., Liang, Y.&dagger;, Ma, Z. and **Zhao, Z.**\* (2023). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://arxiv.org/abs/2310.03617).
-* Wang, X.&dagger;, **Zhao, Z.**\*, Zhang, H., Guo, X. and Zhao, J. (2023). [Quantifying the uneven efficiency benefits from ridesharing market integration](https://arxiv.org/abs/2303.13520).
-* Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2023). [Activity-aware human mobility prediction with hierarchical graph attention recurrent network](https://arxiv.org/abs/2210.07765).
-* Zhou, J.&dagger;, **Zhao, Z**\* and Zhou, J. (2022). [Quantifying COVID-19 transmission risk based on human mobility data: A personalized PageRank approach to efficient contact-tracing](https://doi.org/10.48550/arXiv.2210.01005).
+1. **Zhao, Z.**, Koutsopoulos, H. N. and Zhao, J. (2020). [Uncovering Spatiotemporal Structures from Transit Smart Card Data for Individual Mobility Modeling](https://doi.org/10.1016/B978-0-12-815018-4.00007-3). In Antoniou, C., Efthymiou, D. and Chaniotakis, E. (eds.), _Demand for Emerging Transportation Systems: Modeling Adoption, Satisfaction, and Mobility Patterns_. Elsevier, 123-149.
