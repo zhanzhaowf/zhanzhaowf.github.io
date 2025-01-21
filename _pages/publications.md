@@ -10,8 +10,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Journal Publications
+1. Zhang, Q., Ma, Z.\*, Ling, Y., Qin, Z., Zhang, P. and **Zhao, Z.** (2025). Causal graph discovery for urban bus operation delays: A case in Stockholm. _Transportation Research Record: Journal of the Transportation Research Board_, accepted in January 2025.
 1. Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2024). [Activity-aware human mobility prediction with hierarchical graph attention recurrent network](https://arxiv.org/abs/2210.07765). _IEEE Transactions on Intelligent Transportation Systems_, early access.
-1. Zhang, Q., Ma, Z.\*, Ling, Y., Qin, Z., Zhang, P. and **Zhao, Z.** (2024). Causal graph discovery for urban bus operation delays: A case in Stockholm. _Transportation Research Record: Journal of the Transportation Research Board_, accepted in November 2024.
 1. Hu, Y.&dagger;, Zhao, M. and **Zhao, Z.**\* (2024). [Uncovering heterogeneous effects of link-level street environment on e-bike and e-scooter usage](https://doi.org/10.1016/j.trd.2024.104477). _Transportation Research Part D: Transport and Environment_, 136, 104477.
 1. Fu, T., Li, X.\*, Wang, J., Zhang L., Gong, H., **Zhao, Z.** and Sobhani, A. (2024). [Trajectory prediction and risk assessment in car-following scenarios using a noise-enhanced generative adversarial network](https://ieeexplore.ieee.org/document/10689333). _IEEE Transactions on Intelligent Transportation Systems_, early access.
 1. Liang, Y.&dagger;, **Zhao, Z.**\* and Webster, C. (2024). [Generating sparse origin-destination flows on shared mobility networks using probabilistic graph neural networks](https://doi.org/10.1016/j.scs.2024.105777). _Sustainable Cities and Society_, 114, 105777.
