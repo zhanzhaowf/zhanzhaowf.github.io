@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Journal Publications
-1. Ding, F.&dagger;, Tang, Y., Wang, Y.&dagger; and **Zhao, Z.** (2025). [Unraveling the network effects in station ridership growth patterns under metro network expansion](https://doi.org/10.1016/j.jtrangeo.2025.104205). _Journal of Transport Geography_, 125, 104205.
+1. Ding, F.&dagger;, Tang, Y., Wang, Y.&dagger; and **Zhao, Z.**\* (2025). [Unraveling the network effects in station ridership growth patterns under metro network expansion](https://doi.org/10.1016/j.jtrangeo.2025.104205). _Journal of Transport Geography_, 125, 104205.
 1. Zhang, Q., Ma, Z.\*, Ling, Y., Qin, Z., Zhang, P. and **Zhao, Z.** (2025). [Causal graph discovery for urban bus operation delays: A case in Stockholm](https://journals.sagepub.com/doi/full/10.1177/03611981241306754). _Transportation Research Record: Journal of the Transportation Research Board_, early access.
 1. Tang, Y.&dagger;, He, J., and **Zhao, Z.**\* (2025). [Activity-aware human mobility prediction with hierarchical graph attention recurrent network](https://doi.org/10.1109/TITS.2024.3513695). _IEEE Transactions on Intelligent Transportation Systems_, 26(2), 1604-1616.
 1. Hu, Y.&dagger;, Zhao, M. and **Zhao, Z.**\* (2024). [Uncovering heterogeneous effects of link-level street environment on e-bike and e-scooter usage](https://doi.org/10.1016/j.trd.2024.104477). _Transportation Research Part D: Transport and Environment_, 136, 104477.
