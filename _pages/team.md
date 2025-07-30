@@ -15,14 +15,6 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Tongji); MS (UBC); PhD (MIT)
 * Email: zhanzhao@hku.hk
 
-### Jiali Zhou, Research Assistant Professor (09/2023 - Present)
-* BS (SCUT); MS (CMU); PhD (Northeastern U)
-* Email: jlzhou@hku.hk
-
-### Yuebing Liang, PhD Student (10/2020 - Present)
-* BS (Tsinghua); MS (Tsinghua)
-* Email: yuebingliang@connect.hku.hk
-
 ### Yijia Hu, PhD Student (09/2021 - Present)
 * BS (Zhejiang); MS (CityU)
 * Email: yijiahu@connect.hku.hk
@@ -39,16 +31,19 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Chongqing); MS (HKU)
 * Email: xiaohan.wang@connect.hku.hk
 
-### Yihong Tang, MPhil Student (09/2022 - Present)
-* BS (BUPT)
-* Email: yihongt@connect.hku.hk
+### Tianhao Li, PhD Student (09/2024 - Present)
+* BS (Tongji); MS (Tongji)
+* Email: tianhao123@connect.hku.hk
+
+### Yamin Wang, PhD Student (07/2025 - Present)
+* BS (Wuhan); MS (HKU)
+* Email: yaminwang@hku.hk
+
+### Lingyun Zhong, PhD Student (09/2025 - Present)
+* BS (Tongji); MS (Michigan)
+* Email: lingyunz@umich.edu
 
 
-## Collaborators
-* Professor Jinhua Zhao, MIT ([link](https://dusp.mit.edu/faculty/jinhua-zhao))
-* Professor Haris N. Koutsopoulos, Northeastern University ([link](https://coe.northeastern.edu/people/koutsopoulos-haris/))
-* Professor Nigel H.M. Wilson, MIT ([link](https://cee.mit.edu/people_individual/nigel-wilson/))
-* Professor Lijun Sun, McGill University ([link](https://www.mcgill.ca/civil/lijun-sun))
-* Professor Zhenliang Ma, KTH ([link](https://www.kth.se/profile/zhema))
-* Professor Hongmou Zhang, Peking University ([link](https://www.sg.pku.edu.cn/szdw/zzjs/csyqyglx1/1339592.htm))
-* Professor Yang Xu, Hong Kong Polytechnic University ([link](https://yangxu-git.github.io/))
+## Alumni
+* Yuebing Liang, PhD graduate in 2024, currently Assistant Professor at Tsinghua University ([link](https://yuebingliang.github.io/))
+* Yihong Tang, MPhil graduate in 2024, currently PhD student at McGill University ([link](https://yihongt.github.io/))
