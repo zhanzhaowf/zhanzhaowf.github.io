@@ -27,6 +27,8 @@ Professional experience
 
 Other Academic Positions
 ======
-* Programme Director, HKU MSc in Urban Design and Transport (MScUDT)
-* Chief Examiner, HKU MA in Transport Policy and Planning (MATPP)
-* Chairperson of Transport Policy Committee, HKU Institute of Transport Studies
+* Programme Director, MSc in Urban Design and Transport (MScUDT), HKU
+* Chief Examiner, Master of Transport Policy and Planning (MTP&P), HKU
+* Member, Musketeers Foundation Institute of Data Science, HKU
+* Member, Urban Systems Institute, HKU
+* Member, Hong Kong Society of Transportation Studies (HKSTS)
