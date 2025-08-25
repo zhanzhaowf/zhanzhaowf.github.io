@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## External Research Grants
+* PI. "Smart Mega Events: A Cross-city Comparative Analysis of Event Portfolios and Public Perceptions Using Online Data and Large Language Models". *Public Policy Research Funding Scheme (2025.A8.170.25C)*, HK$592,250, 01/2026-12/2027.
 * PI. “Computational Design of Zero-Emission Zones for Urban Freight”. *Hong Kong Research Grants Council (RGC) - General Research Fund (GRF) (17210325)*, HK$827,561, 01/2026-12/2028.
 * PI. "Leveraging Large Language Models for Road Trip Itinerary Recommendation in the Greater Bay Area", *Contract Research - Highyun InfoTech Limited*, HK$950,000. 04/2025-03/2026.
 * PI. "Generalizable Deep Learning across Cities and Modes for Human Mobility Prediction". *National Natural Science Foundation of China (NSFC) Young Scientists Fund (42201502)*, CNY300,000. 01/2023-12/2025.
