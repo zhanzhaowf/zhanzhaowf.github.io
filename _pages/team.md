@@ -37,11 +37,11 @@ Our team is composed of bright young scholars from various background, all inter
 
 ### Yamin Wang, PhD Student (07/2025 - Present)
 * BS (Wuhan); MS (HKU)
-* Email: yaminwang@hku.hk
+* Email: yamin.wang@connect.hku.hk
 
 ### Lingyun Zhong, PhD Student (09/2025 - Present)
 * BS (Tongji); MS (Michigan)
-* Email: lingyunz@umich.edu
+* Email: lingyunz1021@connect.hku.hk
 
 
 ## Alumni
