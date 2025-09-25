@@ -12,7 +12,8 @@ author_profile: true
 * PI. "Smart Mega Events: A Cross-city Comparative Analysis of Event Portfolios and Public Perceptions Using Online Data and Large Language Models". *Public Policy Research Funding Scheme (PPRFS) (2025.A8.170.25C)*, HK$592,250, 11/2025-10/2026.
 * PI. "Leveraging Large Language Models for Road Trip Itinerary Recommendation in the Greater Bay Area", *Contract Research - Highyun InfoTech Limited*, HK$950,000. 04/2025-03/2026.
 * PI. "Generalizable Deep Learning across Cities and Modes for Human Mobility Prediction". *National Natural Science Foundation of China (NSFC) Young Scientists Fund (42201502)*, CNY300,000. 01/2023-12/2025.
-* Co-PI. "e-TranStar 2.0: i-Core-enabled Smart Just-in-Time MiC Transportation Planning". *Public Sector Trial Scheme (PSTS)- Innovation and Technology Fund (ITT/004/24LP)*, HK$3.73m. 05/2024-04/2026.
+* Co-PI. "e-TranStar 2.0: i-Core-enabled Smart Just-in-Time MiC Transportation Planning". *Public Sector Trial Scheme (PSTS)- Innovation and Technology Fund (ITT/004/24LP)*, HK$3.73m. 05/2024-04/2026. (PI: Professor Wilson Lu, HKU)
+* Co-I. "SmartSim: AI-assisted Simulation Software for Multimodal Transportation Operations". *Smart Traffic Fund (PSRI/78/2311/RA)*, HK$5.68m, 09/2024-08/2026. (PI: Professor Jintao Ke, HKU)
 
 ## Internal Research Grants
 * PI. "Leveraging Causal and Generative AI for Human-centric Urban Street Design". *HKU Lasting Impact Fund - Young Scholar Scheme (010104001)*, HK$800,000. 12/2024-11/2028.
