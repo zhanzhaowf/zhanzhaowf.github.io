@@ -15,10 +15,6 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Tongji); MS (UBC); PhD (MIT)
 * Email: zhanzhao@hku.hk
 
-### Yijia Hu, PhD Student (09/2021 - Present)
-* BS (Zhejiang); MS (CityU)
-* Email: yijiahu@connect.hku.hk
-
 ### Fangyi Ding, PhD Student (09/2022 - Present)
 * BS (HIT); MS (Tongji)
 * Email: fyding@connect.hku.hk
@@ -45,5 +41,6 @@ Our team is composed of bright young scholars from various background, all inter
 
 
 ## Alumni
+* Yijia Hu, PhD graduate in 2025, currently Postdoc Researcher at HKU
 * Yuebing Liang, PhD graduate in 2024, currently Assistant Professor at Tsinghua University ([link](https://yuebingliang.github.io/))
 * Yihong Tang, MPhil graduate in 2024, currently PhD student at McGill University ([link](https://yihongt.github.io/))
