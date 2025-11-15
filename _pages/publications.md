@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Journal Publications
+1. Liang, Y.&dagger;, Wang, S.\*, Yu, J., **Zhao, Z.**, Zhao, J. and Pentland, S. (2025). [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://doi.org/10.1016/j.tbs.2025.101171). _Travel Behaviour and Society_, 43, 101171.
 1. Ding, F.&dagger;, **Zhao, Z.**\*, Han, Y., Zhou, Y. and Xu, Y. (2026). [Does e-shopping weaken the link between land use and neighborhood shopping behavior? Evidence from large-scale mobile phone data](https://doi.org/10.1016/j.apgeog.2025.103809). _Applied Geography_, 186, 103809.
 1. Tang, Y.&dagger;, **Zhao, Z.**\*, Deng, W., Lei, S., Liang, Y.&dagger; and Ma, Z. (2025). [RouteKG: A knowledge graph-based framework for route prediction on road networks](https://doi.org/10.1109/TITS.2025.3615448). _IEEE Transactions on Intelligent Transportation Systems_, DOI: 10.1109/TITS.2025.3615448.
 1. Zhao, L.&dagger;, Shen, S. and **Zhao, Z.**\* (2025). [Large-scale electric bus network transition planning via deep reinforcement learning](https://doi.org/10.1016/j.trd.2025.104899). _Transportation Research Part D: Transport and Environment_, 146, 104899.
