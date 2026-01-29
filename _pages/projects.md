@@ -17,6 +17,7 @@ author_profile: true
 * Co-I. "SmartSim: AI-assisted Simulation Software for Multimodal Transportation Operations". *Smart Traffic Fund (PSRI/78/2311/RA)*, HK$5.68m, 09/2024-08/2026. (PI: Professor Jintao Ke, HKU)
 
 ## Internal Research Grants
+* PI. "Promoting spatially efficient charging infrastructure deployment for electric vehicle adoption through location-based subsidies". *HKU Urban Systems Institute Fellowship Grant*, HK$244,000. 02/2026-07/2027.
 * PI. "Leveraging Causal and Generative AI for Human-centric Urban Street Design". *HKU Lasting Impact Fund - Young Scholar Scheme (010104001)*, HK$800,000. 12/2024-11/2028.
 * PI. "Modeling the co-evolution of urban metro networks and land use systems". *HKU Seed Fund for PI Research – Basic Research (109001117)*, HK$77,533. 06/2024-06/2026.
 * PI. "Enhancing Multimodal Public Transit System Resilience using Network Science and AI". *HKU Seed Fund for PI Research - Basic Research (109000301)*, HK$107,000. 06/2023-06/2025.
