@@ -10,6 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Journal Publications
+1. Li, T.&dagger;, **Zhao, Z.**\* and Zhao, S. (2026). Disentangling metro passenger travel delays under extreme weather events: An analytical framework. _Transportation Research Part D: Transport and Environment_, accepted in February 2026.
 1. Liang, Y.&dagger;, Wang, S.\*, Yu, J., **Zhao, Z.**, Zhao, J. and Pentland, S. (2026). [Analyzing sequential activity and travel decisions with interpretable deep inverse reinforcement learning](https://doi.org/10.1016/j.tbs.2025.101171). _Travel Behaviour and Society_, 43, 101171.
 1. Wang, X.&dagger;, **Zhao, Z.**, Zhang, H., Guo, X. and Zhao, J. (2026). [Assessing the benefits of collaborative ridesharing across transportation network companies](https://doi.org/10.1016/j.trc.2025.105475). _Transportation Research Part C: Emerging Technologies_, 183, 105475.
 1. Ding, F.&dagger;, **Zhao, Z.**\*, Han, Y., Zhou, Y. and Xu, Y. (2026). [Does e-shopping weaken the link between land use and neighborhood shopping behavior? Evidence from large-scale mobile phone data](https://doi.org/10.1016/j.apgeog.2025.103809). _Applied Geography_, 186, 103809.
