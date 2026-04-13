@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Note: "\*" indicates corresponding authorship, and "&dagger;" indicates students/RAs/Postdocs who work under my supervision.
 
 ## Journal Publications
-1. Wang, X.&dagger;, **Zhao, Z.**\*, Wang, R.&dagger; and Xu, Y. (2025). Event-aware analysis of cross-city visitor flows using large language models and social media data. _Transportation Research Part A: Policy and Practice_, in press.
+1. Wang, X.&dagger;, **Zhao, Z.**\*, Wang, R.&dagger; and Xu, Y. (2026). Event-aware analysis of cross-city visitor flows using large language models and social media data. _Transportation Research Part A: Policy and Practice_, in press.
 1. Ding, F.&dagger;, **Zhao, Z.**\*, Wang, Y.&dagger;, Namgung, M., Lee, J. and Li, T.&dagger; (2026). [Origin-destination flow generation for metro network expansion using spatiotemporal gated graph neural networks](https://doi.org/10.1016/j.trc.2026.105677). _Transportation Research Part C: Emerging Technologies_, 188, 105677.
 1. Li, T.&dagger;, **Zhao, Z.**\* and Zhao, S. (2026). [Disentangling metro passenger travel delays under extreme weather events: An analytical framework](https://doi.org/10.1016/j.trd.2026.105284). _Transportation Research Part D: Transport and Environment_, 154, 105284.
 1. Zhou, M., Zhou, J.*, Zhou, J. and **Zhao, Z.** (2026). [Unraveling node, place, and resilience during disasters: Evident from a typhoon in Hong Kong](https://doi.org/10.1016/j.ijdrr.2026.106076). _International Journal of Disaster Risk Reduction_, 136, 106076.
