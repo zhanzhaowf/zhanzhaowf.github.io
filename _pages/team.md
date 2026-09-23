@@ -15,9 +15,9 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Tongji); MS (UBC); PhD (MIT)
 * Email: zhanzhao@hku.hk
 
-### Fangyi Ding, PhD Student (09/2022 - Present)
-* BS (HIT); MS (Tongji)
-* Email: fyding@connect.hku.hk
+### Yijia Hu, Postdoctoral Fellow (10/2025 - Present)
+* BS (Zhejiang); MS (CityU); PhD (HKU)
+* Email: yijiahu@connect.hku.hk
 
 ### Luyun Zhao, PhD Student (02/2023 - Present)
 * BS (Peking); MS (Penn)
@@ -39,8 +39,16 @@ Our team is composed of bright young scholars from various background, all inter
 * BS (Tongji); MS (Michigan)
 * Email: lingyunz1021@connect.hku.hk
 
+### Lei Qin, PhD Student (09/2026 - Present)
+* BS (HIT); MS (HKU)
+* Email: qinlei@hku.hk
+
+### Chaoyang Zhang, PhD Student (09/2026 - Present)
+* BS (Tsinghua); MS (Tsinghua)
+* Email: cy-zhang23@mails.tsinghua.edu.cn
 
 ## Alumni
+* Fangyi Ding, PhD graduate in 2026, currently Senior AI Engineer at CATL
 * Yijia Hu, PhD graduate in 2025, currently Postdoc Researcher at HKU
 * Yuebing Liang, PhD graduate in 2024, currently Assistant Professor at Tsinghua University ([link](https://yuebingliang.github.io/))
 * Yihong Tang, MPhil graduate in 2024, currently PhD student at McGill University ([link](https://yihongt.github.io/))
